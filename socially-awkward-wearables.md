@@ -78,12 +78,38 @@ footer: @stephaniecodes
 
 ---
 
-# [fit] About me
+
+![left](photos/steph.jpg)
+
+software engineer, [@MicrosoftToDo](https://www.twitter.com/microsofttodo)
+
+frontend  -  react  -  js  -  a11y
+
+### ✨ Convo starters ✨
+fashion  |  **vivienne westwood**  |  ootds
+
+**bojack**  |  the heartshe, she holler
 
 ---
 
-# [fit] Past work
-  - burning man kit dress
+# Past work
+
+---
+
+![fit](photos/whip-dress.jpg)
+
+^ fiber optic whip kit
+
+^ base is a flashlight with programmed programs
+
+^ stitched to white dress sewn by my mom.
+
+---
+
+![fit](photos/whip-dress-wip.jpg)
+
+---
+
   - rpi pixel art in home
   - haute codeture out and about with react app
   - removing the need for connectivity for interactivity
