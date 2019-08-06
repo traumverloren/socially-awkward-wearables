@@ -16,7 +16,7 @@ footer: @stephaniecodes
 
 ---
 
-# Outline
+<!-- # Outline
 
 - What you are seeing (& not seeing)
 - Intent of project
@@ -58,15 +58,21 @@ footer: @stephaniecodes
     - sending data from rpi to arduino (https://twitter.com/stephaniecodes/status/1113164378667462656?s=20)
 - Writing light program for arduino & optimizing
   - Fixing memory issues / crashing on rpi (https://twitter.com/stephaniecodes/status/1145342670707003392?s=20) and blocking code on arduino program (https://twitter.com/stephaniecodes/status/1145316338329620480?s=20)
-  - test fit off mannequin and issues (https://twitter.com/stephaniecodes/status/1153390413643862016?s=20)
+  - test fit off mannequin and issues (https://twitter.com/stephaniecodes/status/1153390413643862016?s=20) -->
 
 ---
 
 # [fit] What you are seeing (& not seeing)
 
+- explanation of necklace and software/tech
+- what is hidden under clothes pic
+
 ---
 
 # [fit] Intent of project
+
+- inspo
+- goal??
 
 ---
 
@@ -90,13 +96,19 @@ fashion  |  **vivienne westwood**  |  ootds
 
 **bojack**  |  the heartshe, she holler
 
+dogs named **Wilbur**
+
 ---
 
 # Past work
 
 ---
 
-![fit](photos/whip-dress.jpg)
+![fill](photos/dress-1.jpg)
+![fill](photos/dress-2.jpg)
+![fill](photos/dress-3.jpg)
+![fill](photos/dress-4.jpg)
+
 
 ^ fiber optic whip kit
 
@@ -106,13 +118,44 @@ fashion  |  **vivienne westwood**  |  ootds
 
 ---
 
-![fit](photos/whip-dress-wip.jpg)
+![fill left](photos/wip-1.jpg)
+
+# Fiber optic dress
+
+- No coding
+- No soldering
+- Fiber optic whip
+- [tiny.cc/fiber-optic-kit](tiny.cc/fiber-optic-kit)
 
 ---
 
-  - rpi pixel art in home
-  - haute codeture out and about with react app
-  - removing the need for connectivity for interactivity
+![left 130%](photos/rpi-leds.gif)
+
+# Pixel Art on a Pi
+
+- Receive pixel art from the web to small led panel in my living room!
+- No soldering (plug & play attachment)
+- Lots of coding (python, react, socket.io)
+- [tiny.cc/rpi-project](tiny.cc/rpi-project)
+
+---
+
+![fill autoplay loop](photos/intro-clip.mov)
+
+---
+
+ # Haute Codeture
+
+- Lots of Coding
+- Lots of soldering
+
+---
+
+---
+
+- rpi pixel art in home
+- haute codeture out and about with react app
+- removing the need for connectivity for interactivity
 
 ---
 
