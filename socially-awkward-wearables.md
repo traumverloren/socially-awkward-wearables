@@ -14,8 +14,6 @@ footer: @stephaniecodes
 
 [.hide-footer]
 
----
-
 <!-- # Outline
 
 - What you are seeing (& not seeing)
@@ -62,25 +60,38 @@ footer: @stephaniecodes
 
 ---
 
-# [fit] What you are seeing (& not seeing)
+# [fit] A very complicated necklace.
 
-- explanation of necklace and software/tech
-- what is hidden under clothes pic
-
----
-
-# [fit] Intent of project
-
-- inspo
-- goal??
+![left fit](photos/necklace-schema.jpg)
 
 ---
 
-# [fit] Motivations
-  - ML learning at work
-  - Everyone else learning fast
-  - All theoretical no practical/tangible
-  - ML4A & Coding Train
+# [fit] A wearable that forces me 
+# [fit] to be **AROUND PEOPLE** in order to
+# [fit] **NOT** DRAW ATTENTION
+
+---
+
+### I'm introverted, awkward, and anxious in social situations.
+
+---
+
+### I wasn't keeping up with a machine learning study group at work.
+
+^ I couldn't keep up with a machine learning study group at work that was doing a big MOOC course.
+
+^ Everyone else learning fast
+^ All theoretical no practical/tangible
+^ ML4A & Coding Train
+
+
+---
+
+# I still have a lot to learn about Machine Learning.
+
+- ML4A: [https://ml4a.github.io/](https://ml4a.github.io/)
+<br/>
+- The Coding Train: [https://thecodingtrain.com/](https://thecodingtrain.com/)
 
 ---
 
@@ -100,7 +111,7 @@ dogs named **Wilbur**
 
 ---
 
-# Past work
+# [fit] It's Not my first hardware project
 
 ---
 
@@ -108,7 +119,6 @@ dogs named **Wilbur**
 ![fill](photos/dress-2.jpg)
 ![fill](photos/dress-3.jpg)
 ![fill](photos/dress-4.jpg)
-
 
 ^ fiber optic whip kit
 
@@ -124,18 +134,25 @@ dogs named **Wilbur**
 
 - No coding
 - No soldering
-- Fiber optic whip
+- Fiber optic rave whip
 - [tiny.cc/fiber-optic-kit](tiny.cc/fiber-optic-kit)
 
 ---
 
-![left 130%](photos/rpi-leds.gif)
+![fill](photos/rpi-leds.gif)
+
+
+---
 
 # Pixel Art on a Pi
 
-- Receive pixel art from the web to small led panel in my living room!
-- No soldering (plug & play attachment)
-- Lots of coding (python, react, socket.io)
+![20% left](photos/rpi.jpg)
+
+- No soldering
+- Lots of coding
+    - Python
+    - React
+    - Socket.io
 - [tiny.cc/rpi-project](tiny.cc/rpi-project)
 
 ---
@@ -144,10 +161,14 @@ dogs named **Wilbur**
 
 ---
 
- # Haute Codeture
+# Haute Codeture
 
 - Lots of Coding
+    - React
+    - MQTT
 - Lots of soldering
+- Lots of iterations
+- [http://tiny.cc/haute-codeture](http://tiny.cc/haute-codeture)
 
 ---
 
