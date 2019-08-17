@@ -60,12 +60,6 @@ footer: @stephaniecodes
 
 ---
 
-# [fit] A very complicated necklace.
-
-![left fit](photos/necklace-schema.jpg)
-
----
-
 # [fit] A wearable that forces me 
 # [fit] to be **AROUND PEOPLE** in order to
 # [fit] **NOT** DRAW ATTENTION
@@ -76,42 +70,7 @@ footer: @stephaniecodes
 
 ---
 
-### I wasn't keeping up with a machine learning study group at work.
-
-^ I couldn't keep up with a machine learning study group at work that was doing a big MOOC course.
-
-^ Everyone else learning fast
-^ All theoretical no practical/tangible
-^ ML4A & Coding Train
-
-
----
-
-# I still have a lot to learn about Machine Learning.
-
-- ML4A: [https://ml4a.github.io/](https://ml4a.github.io/)
-<br/>
-- The Coding Train: [https://thecodingtrain.com/](https://thecodingtrain.com/)
-
----
-
-
-![left](photos/steph.jpg)
-
-software engineer, [@MicrosoftToDo](https://www.twitter.com/microsofttodo)
-
-frontend  -  react  -  js  -  a11y
-
-### ✨ Convo starters ✨
-fashion  |  **vivienne westwood**  |  ootds
-
-**bojack**  |  the heartshe, she holler
-
-dogs named **Wilbur**
-
----
-
-# [fit] It's Not my first hardware project
+### It's not my first experiment with wearables that force me to be uncomfortable in public
 
 ---
 
@@ -132,28 +91,18 @@ dogs named **Wilbur**
 
 # Fiber optic dress
 
-- No coding
+- No coding, pre-programmed
 - No soldering
-- Fiber optic rave whip
 - [tiny.cc/fiber-optic-kit](tiny.cc/fiber-optic-kit)
 
 ---
 
-![fill](photos/rpi-leds.gif)
+![fill left](photos/bike-ride.jpg)
 
+# Things I didn't like
 
----
-
-# Pixel Art on a Pi
-
-![20% left](photos/rpi.jpg)
-
-- No soldering
-- Lots of coding
-    - Python
-    - React
-    - Socket.io
-- [tiny.cc/rpi-project](tiny.cc/rpi-project)
+- No input from others possible
+- Difficult to change program when wearing it
 
 ---
 
@@ -171,6 +120,76 @@ dogs named **Wilbur**
 - [http://tiny.cc/haute-codeture](http://tiny.cc/haute-codeture)
 
 ---
+
+# Things I didn't like
+
+- Always need my phone nearby (wifi tethering)
+- Input only through a web app
+
+---
+
+# [fit] Speech to Image Necklace
+
+![fit left autoplay loop](photos/IMG_6459.mp4)
+
+- I accidently made something with machine learning last year and didn't realize it.
+- Just thought I was using an API 🤷‍
+- [http://tiny.cc/speech-to-image](http://tiny.cc/speech-to-image)
+
+^ Google cloud speech recognition API
+
+---
+
+# [fit] One complicated necklace
+
+![left fit](photos/necklace-schema.jpg)
+
+- Camera
+- Raspberry Pi
+- Arduino
+- LEDs
+- Battery
+- NodeJS
+- TensorflowJS
+- Tiny-YOLO
+- FastLED
+
+---
+
+## But really,
+### it's because I couldn't keep up with a machine learning study group at work. 😞
+
+^ I couldn't keep up with a machine learning study group at work that was doing a big MOOC course.
+
+^ Everyone else learning fast
+^ All theoretical no practical/tangible
+^ ML4A & Coding Train
+
+
+---
+
+# I still have a lot to learn about Machine Learning
+
+- Machine learning for artists  ✨  [https://ml4a.github.io/](https://ml4a.github.io/)
+<br/>
+- The Coding Train  ✨  [https://thecodingtrain.com/](https://thecodingtrain.com/)
+
+---
+
+
+![left](photos/steph.jpg)
+
+software engineer, [@MicrosoftToDo](https://www.twitter.com/microsofttodo)
+
+frontend  -  react  -  js  -  a11y
+
+### ✨ Convo starters ✨
+fashion  |  **vivienne westwood**  |  ootds
+
+**bojack**  |  the heartshe, she holler
+
+vegetarian junk food | **dogs** 
+
 
 ---
 
