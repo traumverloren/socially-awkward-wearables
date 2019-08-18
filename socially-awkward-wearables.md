@@ -60,17 +60,57 @@ footer: @stephaniecodes
 
 ---
 
+# An Autonomous necklace
+
+![left fill autoplay loop](photos/ml-necklace.mov)
+
+---
+
+# [fit] Look at all this tech
+
+![left fit](photos/necklace-schema.jpg)
+
+- Camera
+- Raspberry Pi
+- Arduino
+- LEDs
+- Battery
+- NodeJS
+- TensorflowJS
+- Tiny-YOLO
+- FastLED
+
+---
+
+## [fit] *WHY* is just as important as *HOW*
+
+---
+
 # [fit] A wearable that forces me 
-# [fit] to be **AROUND PEOPLE** in order to
-# [fit] **NOT** DRAW ATTENTION
+# [fit] to be *around people* in order to
+# [fit] *not* DRAW ATTENTION
 
 ---
 
-### I'm introverted, awkward, and anxious in social situations.
+### I'm introverted, awkward, & anxious in social situations.
 
 ---
 
-### It's not my first experiment with wearables that force me to be uncomfortable in public
+### [fit] It's Terrifying & counterinituitive, 
+
+### but I'm fascinated with making myself uncomfortable in public
+
+---
+
+# [fit] Experiments with wearables
+
+^ Over past couple years, I've made a couple of wearable projects to gradually explore wearing lighted wearables in public
+
+^ How people react in general
+
+^ How people react to me being the maker
+
+^ How I react to people reacting
 
 ---
 
@@ -89,77 +129,105 @@ footer: @stephaniecodes
 
 ![fill left](photos/wip-1.jpg)
 
-# Fiber optic dress
+# Experiment #1:<br/>Jellyfish Dress
 
+- Bought a kit: [tiny.cc/fiber-optic-kit](tiny.cc/fiber-optic-kit)
+- Followed an Instructables tutorial
 - No coding, pre-programmed
-- No soldering
-- [tiny.cc/fiber-optic-kit](tiny.cc/fiber-optic-kit)
+- No soldering, only sewing
 
 ---
 
 ![fill left](photos/bike-ride.jpg)
 
-# Things I didn't like
+## [fit] First time wearing lights 
+## [fit] & people liked it!
 
-- No input from others possible
-- Difficult to change program when wearing it
+---
+
+![fill left](photos/bike-ride.jpg)
+
+## [fit] A Bit Lifeless
+
+^ ~6 months coding experience
+^ Next logical step was to actually code something
 
 ---
 
 ![fill autoplay loop](photos/intro-clip.mov)
 
+
+^ Multiple coordinated pieces
+^ Anyone on the web could control the lights
+
 ---
 
-# Haute Codeture
+![50% autoplay loop right](photos/haute-app.mov)
 
-- Lots of Coding
-    - React
-    - MQTT
+# Experiment #2:<br/>Haute Codeture
+
+- Lots of coding:
+    - React, NodeJS, MQTT, Arduino
 - Lots of soldering
-- Lots of iterations
-- [http://tiny.cc/haute-codeture](http://tiny.cc/haute-codeture)
+- [tiny.cc/haute-codeture](http://tiny.cc/haute-codeture)
 
 ---
 
-# Things I didn't like
+![fill left](photos/haute-codeture-2.jpg)
 
-- Always need my phone nearby (wifi tethering)
-- Input only through a web app
+## People *really* liked controlling how I looked.
 
 ---
 
-# [fit] Speech to Image Necklace
+![fill left](photos/haute-codeture-2.jpg)
+
+## *Limitations:*
+## Dependent on wifi and an app
+
+^ Stuck with keeping my phone on me, having a network connection
+
+---
+
+# Experiment #3:<br/>Speech-to-Image Necklace
+
+![fit left](photos/IMG_6459.mp4)
+
+- Some coding:
+    - NodeJS
+    - Google cloud speech recognition API
+    - Google Custom Search API
+- No soldering
+- [tiny.cc/speech-to-image](http://tiny.cc/speech-to-image)
+
+---
 
 ![fit left autoplay loop](photos/IMG_6459.mp4)
 
-- I accidently made something with machine learning last year and didn't realize it.
-- Just thought I was using an API 🤷‍
-- [http://tiny.cc/speech-to-image](http://tiny.cc/speech-to-image)
+# [fit] Responsive without any direct input
 
-^ Google cloud speech recognition API
+# [fit] but needed wifi to work
 
 ---
 
-# [fit] One complicated necklace
+# [fit] I accidently made something
+# [fit] with *machine learning* & didn't realize it.
 
-![left fit](photos/necklace-schema.jpg)
+🤷‍
 
-- Camera
-- Raspberry Pi
-- Arduino
-- LEDs
-- Battery
-- NodeJS
-- TensorflowJS
-- Tiny-YOLO
-- FastLED
+## (I just thought I was using an API)
+
 
 ---
 
-## But really,
-### it's because I couldn't keep up with a machine learning study group at work. 😞
+# Making An Autonomous necklace
 
-^ I couldn't keep up with a machine learning study group at work that was doing a big MOOC course.
+![left fill](photos/ml-necklace.mov)
+
+---
+
+### I couldn't keep up with a machine learning study group at work.
+
+^But  the real reason i built this is because I couldn't keep up with a machine learning study group at work that was doing a big MOOC course.
 
 ^ Everyone else learning fast
 ^ All theoretical no practical/tangible
@@ -168,14 +236,9 @@ footer: @stephaniecodes
 
 ---
 
-# I still have a lot to learn about Machine Learning
-
-- Machine learning for artists  ✨  [https://ml4a.github.io/](https://ml4a.github.io/)
-<br/>
-- The Coding Train  ✨  [https://thecodingtrain.com/](https://thecodingtrain.com/)
+### Proving myself and validating my learning style
 
 ---
-
 
 ![left](photos/steph.jpg)
 
@@ -190,20 +253,22 @@ fashion  |  **vivienne westwood**  |  ootds
 
 vegetarian junk food | **dogs** 
 
+---
+
+# Machine Learning 101
+
+- Machine learning for artists  ✨  [https://ml4a.github.io/](https://ml4a.github.io/)
+<br/>
+- The Coding Train  ✨  [https://thecodingtrain.com/](https://thecodingtrain.com/)
 
 ---
 
-- rpi pixel art in home
-- haute codeture out and about with react app
-- removing the need for connectivity for interactivity
+Build time: 8 months vs. 3 months
 
----
+![inline 90%](photos/too-much-to-do.png)
 
-# [fit] Building
-  - long process
-  - demotivated much of the time
-  (https://twitter.com/stephaniecodes/status/1121499375778312193?s=20)
-  - easy to hyperfocus and tweak one bit
+^ demotivated alot of this year
+^ easy to hyperfocus and tweak one bit
 
 ---
 
