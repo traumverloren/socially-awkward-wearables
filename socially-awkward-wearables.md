@@ -255,7 +255,7 @@ vegetarian junk food | **dogs**
 
 ---
 
-# Machine Learning 101
+# How I learned things
 
 - Machine learning for artists  ✨  [https://ml4a.github.io/](https://ml4a.github.io/)
 <br/>
@@ -263,9 +263,13 @@ vegetarian junk food | **dogs**
 
 ---
 
-Build time: 8 months vs. 3 months
+# Expectation vs. Reality
 
-![inline 90%](photos/too-much-to-do.png)
+![left fit](photos/too-much-to-do.png)
+
+- It was hard
+- No guides, uncharted waters
+- Build time: 8 months vs. 3 months
 
 ^ demotivated alot of this year
 ^ easy to hyperfocus and tweak one bit
