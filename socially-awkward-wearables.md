@@ -40,7 +40,8 @@ footer: @stephaniecodes
     (https://twitter.com/stephaniecodes/status/1091036862725218309?s=20)
     - 2. can get tensorflowjs running on pi?
         - at time, arm architecture not supported
-        - yalc/build on pi was able to work
+        - yalc/build on pi was able to work (https://github.com/tensorflow/tfjs-node/pull/196)
+        https://twitter.com/stephaniecodes/status/1091036862725218309
     - 3. can I get picamera working and sending pic to model?
 - Creating the LED necklace
   - reuse and control blinkytiles with arduino (teensy) & fastled library
@@ -236,11 +237,15 @@ footer: @stephaniecodes
 
 ---
 
-### Proving myself and validating my learning style
+### Prove myself
+
+### &
+
+### Validate my learning style
 
 ---
 
-![left](photos/steph.jpg)
+![fit left](photos/steph.jpg)
 
 software engineer, [@MicrosoftToDo](https://www.twitter.com/microsofttodo)
 
@@ -251,11 +256,11 @@ fashion  |  **vivienne westwood**  |  ootds
 
 **bojack**  |  the heartshe, she holler
 
-vegetarian junk food | **dogs** 
+**dogs** | memes
 
 ---
 
-# How I learned things
+# How I learned some things
 
 - Machine learning for artists  ✨  [https://ml4a.github.io/](https://ml4a.github.io/)
 <br/>
@@ -263,28 +268,61 @@ vegetarian junk food | **dogs**
 
 ---
 
-# Expectation vs. Reality
+[.build-lists: true]
 
-![left fit](photos/too-much-to-do.png)
+# Reality
 
-- It was hard
-- No guides, uncharted waters
+<!-- ![left fit](photos/too-much-to-do.png) -->
+
 - Build time: 8 months vs. 3 months
+- It was hard and I got demotivated
+- I still know very little about machine learning
+- I'm good at figuring out things I don't understand
 
 ^ demotivated alot of this year
 ^ easy to hyperfocus and tweak one bit
 
 ---
 
-# [fit] Process
+1. Tensorflow.js & Tiny-YOLO model running in *NodeJS*
+<br/>
+<br/>
+<br/>
+<br/>
+
+---
+
+![left](photos/tiny-yolo-library.gif)
+
+# Tiny-YOLO
+
+*Y*ou *O*nly *L*ook *O*nce
+
+<br/>
+- Pretrained model
+- Fast in-browser image detection
+
+
+---
+
+![left fit](photos/got-it-working.png)
+
+- Use `@tensorflow/tfjs-node`
+- store models locally
+- Change `import` statements → `require`
+
+---
+
   - Tensorflow on Rpi
-  - Create LED necklace out of old LED pieces and arduino
+  - Create LED necklace out of old LED pieces get running with an arduino
   - Hookup Rpi to LEDs and send data to necklace
-  - Change LED colors/pattern based on info from pi
+  - Change LED colors/pattern based on what pi "sees"
 
 ---
 
 # [fit] Tensorflowjs on Raspberry Pi
+
+![left fit](photos/tensorflow-github.png)
 
 ---
 
