@@ -284,7 +284,7 @@ fashion  |  **vivienne westwood**  |  ootds
 
 ---
 
-1. Tensorflow.js & Tiny-YOLO model running in *NodeJS*
+1. TensorFlow.js & Tiny-YOLO model running in **Node.js**
 <br/>
 <br/>
 <br/>
@@ -292,15 +292,24 @@ fashion  |  **vivienne westwood**  |  ootds
 
 ---
 
+# TensorFlow.js
+
+Library for training & running machine learning models in the browser
+(or Node.js)
+
+^ it's mostly geared towards the browser
+
+---
+
 ![left](photos/tiny-yolo-library.gif)
 
 # Tiny-YOLO
 
-*Y*ou *O*nly *L*ook *O*nce
+**Y**ou **O**nly **L**ook **O**nce
 
 <br/>
 - Pretrained model
-- Fast in-browser image detection
+- Fast **in-browser** image detection
 
 
 ---
@@ -313,14 +322,14 @@ fashion  |  **vivienne westwood**  |  ootds
 
 ---
 
-  - Tensorflow on Rpi
+  - TensorFlow.js on Rpi
   - Create LED necklace out of old LED pieces get running with an arduino
   - Hookup Rpi to LEDs and send data to necklace
   - Change LED colors/pattern based on what pi "sees"
 
 ---
 
-# [fit] Tensorflowjs on Raspberry Pi
+# [fit] TensorFlow.js on Raspberry Pi
 
 ![left fit](photos/tensorflow-github.png)
 
