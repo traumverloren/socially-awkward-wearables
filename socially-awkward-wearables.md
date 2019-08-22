@@ -256,7 +256,7 @@ fashion  |  **vivienne westwood**  |  ootds
 
 **bojack**  |  the heartshe, she holler
 
-**dogs** | memes
+**dogs** | career changers
 
 ---
 
@@ -284,7 +284,21 @@ fashion  |  **vivienne westwood**  |  ootds
 
 ---
 
-1. TensorFlow.js & Tiny-YOLO model running in **Node.js**
+[.build-lists: true]
+
+# Things to Accomplish
+
+1. Get image recognition ML model running on **Node.js**
+2. TensorFlow.js on **Raspberry Pi**???
+3. Create a beautiful LED necklace
+4. Send data from the Raspberry Pi to the necklace
+5. Make the necklace responsive to data
+
+---
+
+# Things to Accomplish
+
+1. Get image recognition ML model running on **Node.js**
 <br/>
 <br/>
 <br/>
@@ -311,21 +325,15 @@ Library for training & running machine learning models in the browser
 - Pretrained model
 - Fast **in-browser** image detection
 
-
 ---
 
 ![left fit](photos/got-it-working.png)
 
+Adapt Tiny-YOLO to work on Node.js
+
 - Use `@tensorflow/tfjs-node`
-- store models locally
-- Change `import` statements → `require`
-
----
-
-  - TensorFlow.js on Rpi
-  - Create LED necklace out of old LED pieces get running with an arduino
-  - Hookup Rpi to LEDs and send data to necklace
-  - Change LED colors/pattern based on what pi "sees"
+- Store model files locally
+- Modify `import`/`export` statements
 
 ---
 
