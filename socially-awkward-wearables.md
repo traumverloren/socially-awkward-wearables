@@ -291,8 +291,8 @@ fashion  |  **vivienne westwood**  |  ootds
 1. Get image recognition ML model running on **Node.js**
 2. Run TensorFlow.js on **Raspberry Pi!**
 3. Send camera pic to image recognition model on Raspberry Pi
-4. Create a beautiful LED necklace
-5. Send data from the Raspberry Pi to the necklace
+4. Create a LED necklace
+5. Send image data from the Raspberry Pi to the necklace
 6. Make the necklace responsive to data
 
 --- -->
@@ -439,12 +439,55 @@ If it ain't broke, don't fix it?
 ![30%](photos/necklace-1.jpg)
 ![](photos/necklace-3.jpg)
 
+---
+
+# Things to Accomplish
+
+1. ~~Get image recognition ML model running on **Node.js**~~
+2. ~~Run TensorFlow.js on **Raspberry Pi!**~~
+3. ~~Send camera pic to image recognition model on Raspberry Pi~~
+4. ~~Create a LED necklace~~
+5. Send image data from the Raspberry Pi to the necklace
 
 ---
 
+# [fit] I wanted to connect Raspberry Pi
+# [fit] to the necklace's arduino by serial ports
+
+---
+
+- I had a lot of trouble with this
+
+- I got really discouraged for a bit
+
+- I eventually found a blog post that helped
+
+![right fit](photos/pi-serial-issue.png)
+
+---
+
+![](photos/serial-instructions.gif)
+
+^ updating pi config files
+^ disable some config settings on boot
+
+---
+
+![left fit](photos/teensy-serial.png)
 
 
-# [fit] Hookup Rpi to LEDs and send data to necklace
+---
+
+![left ](photos/swap-arduino-1.png)
+![right ](photos/swap-arduino-2.png)
+
+---
+
+Send image data
+
+Originally set as json
+
+Dumb move
 
 ---
 
