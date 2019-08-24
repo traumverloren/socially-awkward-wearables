@@ -256,7 +256,7 @@ fashion  |  **vivienne westwood**  |  ootds
 
 **bojack**  |  the heartshe, she holler
 
-**dogs** | career changers
+**dogs** | career changing
 
 ---
 
@@ -387,13 +387,33 @@ If it ain't broke, don't fix it?
 
 # [fit] Send camera pic to image recognition model on Raspberry Pi
 
--
--
--
+- Hookup PiCamera 
+- Use `node-canvas` & create a canvas for the pic
+- Crop image to match what model expecting (416 x 416)
+- Turn into a tensor & send to the model!
 
 ---
 
-# [fit] Creating the LED necklace
+![left fill](photos/camera-working-1.png)
+
+![right fill](photos/camera-working-2.png)
+
+---
+
+# Things to Accomplish
+
+1. ~~Get image recognition ML model running on **Node.js**~~
+2. ~~Run TensorFlow.js on **Raspberry Pi!**~~
+3. ~~Send camera pic to image recognition model on Raspberry Pi~~
+4. Create a beautiful LED necklace
+<br/>
+<br/>
+
+---
+
+# [fit] Reuse hardware and materials I already had
+
+![left fill](photos/blinkytiles-stock.jpg)
 
 ---
 
