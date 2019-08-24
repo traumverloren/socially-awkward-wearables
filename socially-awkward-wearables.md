@@ -405,7 +405,7 @@ If it ain't broke, don't fix it?
 1. ~~Get image recognition ML model running on **Node.js**~~
 2. ~~Run TensorFlow.js on **Raspberry Pi!**~~
 3. ~~Send camera pic to image recognition model on Raspberry Pi~~
-4. Create a beautiful LED necklace
+4. Create a LED necklace
 <br/>
 <br/>
 
@@ -413,9 +413,36 @@ If it ain't broke, don't fix it?
 
 # [fit] Reuse hardware and materials I already had
 
-![left fill](photos/blinkytiles-stock.jpg)
+![left](photos/blinky-kit.jpg)
+![right fill](photos/blinkytiles-stock.jpg)
 
 ---
+
+![left fill](photos/blinkytiles-top.jpg)
+![right autoplay loop fit](photos/blinkytiles-wearable.MOV)
+
+---
+
+ Use the blinkytiles but control them with an arduino
+
+![inline 80%](photos/blinkytiles-github.png)
+
+[https://github.com/jasoncoon/BlinkyTileFastLED](https://github.com/jasoncoon/BlinkyTileFastLED)
+
+---
+
+![fit autoplay loop](photos/blinkytiles-arduino-test.mov)
+![fit](photos/blinkytiles-tweet-2.png)
+
+---
+
+![30%](photos/necklace-1.jpg)
+![](photos/necklace-3.jpg)
+
+
+---
+
+
 
 # [fit] Hookup Rpi to LEDs and send data to necklace
 
