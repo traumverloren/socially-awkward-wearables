@@ -284,17 +284,18 @@ fashion  |  **vivienne westwood**  |  ootds
 
 ---
 
-[.build-lists: true]
+<!-- [.build-lists: true]
 
 # Things to Accomplish
 
 1. Get image recognition ML model running on **Node.js**
-2. TensorFlow.js on **Raspberry Pi**???
-3. Create a beautiful LED necklace
-4. Send data from the Raspberry Pi to the necklace
-5. Make the necklace responsive to data
+2. Run TensorFlow.js on **Raspberry Pi!**
+3. Send camera pic to image recognition model on Raspberry Pi
+4. Create a beautiful LED necklace
+5. Send data from the Raspberry Pi to the necklace
+6. Make the necklace responsive to data
 
----
+--- -->
 
 # Things to Accomplish
 
@@ -303,6 +304,7 @@ fashion  |  **vivienne westwood**  |  ootds
 <br/>
 <br/>
 <br/>
+
 
 ---
 
@@ -319,27 +321,75 @@ Library for training & running machine learning models in the browser
 
 # Tiny-YOLO
 
-**Y**ou **O**nly **L**ook **O**nce
+## *Y*ou *O*nly *L*ook *O*nce
 
-<br/>
 - Pretrained model
 - Fast **in-browser** image detection
 
 ---
 
-![left fit](photos/got-it-working.png)
+![right fill](photos/got-it-working.png)
 
-Adapt Tiny-YOLO to work on Node.js
+# [fit] Adapt Tiny-YOLO to work on Node.js
 
 - Use `@tensorflow/tfjs-node`
 - Store model files locally
 - Modify `import`/`export` statements
+- Load image file vs. `MediaDevices.getUserMedia()`
 
 ---
 
-# [fit] TensorFlow.js on Raspberry Pi
+# Things to Accomplish
 
-![left fit](photos/tensorflow-github.png)
+1. ~~Get image recognition ML model running on **Node.js**~~
+2. Run TensorFlow.js on **Raspberry Pi!**
+<br/>
+<br/>
+<br/>
+<br/>
+
+---
+
+![fit](photos/tfjs-pr.png)
+
+---
+
+![fit](photos/tensorflow-github.png)
+
+---
+
+### [fit] FYI: I'm running on Tensorflow.js 0.14.2
+
+It is a bit hacky, but runs reliable & that's beautiful!
+
+<br/>
+
+If it ain't broke, don't fix it?
+
+^ I did this months ago and honestly don't wanna mess it up
+
+^ Latest tf.js release is 1.2.8
+
+^ Also prepping rc 2.0
+
+---
+
+# Things to Accomplish
+
+1. ~~Get image recognition ML model running on **Node.js**~~
+2. ~~Run TensorFlow.js on **Raspberry Pi!**~~
+3. Send camera pic to image recognition model on Raspberry Pi
+<br/>
+<br/>
+<br/>
+
+---
+
+# [fit] Send camera pic to image recognition model on Raspberry Pi
+
+-
+-
+-
 
 ---
 
