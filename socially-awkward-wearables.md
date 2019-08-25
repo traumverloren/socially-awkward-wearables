@@ -482,9 +482,8 @@ If it ain't broke, don't fix it?
 
 
 ---
-
-# [fit] Oops
-# [fit] A Hardware Learning
+# [fit] Glitchy:
+# [fit] Oh nooooo!
 
 ![left fill autoplay loop](photos/teensy-power-issues.mov)
 
@@ -505,6 +504,11 @@ Send image data
 Originally set as json
 
 Dumb move
+
+<!-- - sending data from rpi to arduino (https://twitter.com/stephaniecodes/status/1113164378667462656?s=20)
+- Writing light program for arduino & optimizing
+  - Fixing memory issues / crashing on rpi (https://twitter.com/stephaniecodes/status/1145342670707003392?s=20) and blocking code on arduino program (https://twitter.com/stephaniecodes/status/1145316338329620480?s=20)
+  - test fit off mannequin and issues (https://twitter.com/stephaniecodes/status/1153390413643862016?s=20) -->
 
 ---
 
