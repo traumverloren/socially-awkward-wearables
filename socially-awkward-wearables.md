@@ -451,18 +451,23 @@ If it ain't broke, don't fix it?
 
 ---
 
-# [fit] I wanted to connect Raspberry Pi
-# [fit] to the necklace's arduino by serial ports
+# [fit] I wanted to physically connect the 
+# [fit] Raspberry Pi to the necklace's arduino
 
 ---
 
-- I had a lot of trouble with this
+# [fit] Serial Ports on Raspberry Pi
 
-- I got really discouraged for a bit
+![left fit](photos/rpi-pinouts.png)
 
-- I eventually found a blog post that helped
+- Useful for low level communication
+- One for sending, one for receiving
+- Send data from Pi to data pin on Arduino
+
+---
 
 ![right fit](photos/pi-serial-issue.png)
+![left fit](photos/rpi-loopback.jpg)
 
 ---
 
@@ -475,6 +480,18 @@ If it ain't broke, don't fix it?
 
 ![left fit](photos/teensy-serial.png)
 
+
+---
+
+# [fit] Oops
+# [fit] A Hardware Learning
+
+![left fill autoplay loop](photos/teensy-power-issues.mov)
+
+^ long wires
+^ 5V possible but with a bit of modification
+^ Outside my abilities at the time
+^ So switched boards instead
 
 ---
 
