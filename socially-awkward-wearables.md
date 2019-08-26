@@ -494,16 +494,41 @@ If it ain't broke, don't fix it?
 
 ---
 
-![left ](photos/swap-arduino-1.png)
+# Solution
+
+- Switched arduinos
+(Teensy → Adafruit Metro Mini)
+- Got lucky (!!) the CPU was compatible with the library for running the lights
+
 ![right ](photos/swap-arduino-2.png)
 
 ---
 
-Send image data
+# [fit] Send Number of People to Necklace
 
-Originally set as json
+![](photos/serial-coding.png)
 
-Dumb move
+---
+
+[.build-lists: true]
+
+# JSON on Arduino
+
+![left fit](photos/serial-arduino.png)
+
+- I used what format I was comfortable with, not what was best for tiny hardware
+
+- Arduino must have a `setup()` & `loop()` function
+
+- Not efficient for what I was trying to do - LEDs would pause while processing received JSON
+
+- So I switched to sending data as 3 BYTES instead
+
+---
+
+![fit](photos/switched-to-bytes.png)
+
+^ 60 & 62
 
 <!-- - sending data from rpi to arduino (https://twitter.com/stephaniecodes/status/1113164378667462656?s=20)
 - Writing light program for arduino & optimizing
