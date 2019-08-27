@@ -478,7 +478,7 @@ If it ain't broke, don't fix it?
 
 ---
 
-![left fit](photos/teensy-serial.png)
+![inline fit](photos/teensy-serial.png)
 
 
 ---
@@ -504,7 +504,20 @@ If it ain't broke, don't fix it?
 
 ---
 
-# [fit] Send Number of People to Necklace
+# [fit] Send Data to Necklace
+
+![](photos/serial-coding.png)
+
+---
+
+# [fit] But What format do you do this stuff in???? 
+
+![](photos/serial-coding.png)
+
+---
+
+# [fit] ‍I use json at my day job,
+# [fit] I'll just use it here too
 
 ![](photos/serial-coding.png)
 
@@ -516,27 +529,56 @@ If it ain't broke, don't fix it?
 
 ![left fit](photos/serial-arduino.png)
 
-- I used what format I was comfortable with, not what was best for tiny hardware
+- Hey, there's an Arduino JSON library
 
-- Arduino must have a `setup()` & `loop()` function
+- Wow, it worked!
 
-- Not efficient for what I was trying to do - LEDs would pause while processing received JSON
+---
 
-- So I switched to sending data as 3 BYTES instead
+![fit](photos/mem-issues-2.png)
+
+^ Lights would pause while processing the JSON received
+
+^ Oops, that didn't work so well
 
 ---
 
 ![fit](photos/switched-to-bytes.png)
 
-^ 60 & 62
 
-<!-- - sending data from rpi to arduino (https://twitter.com/stephaniecodes/status/1113164378667462656?s=20)
-- Writing light program for arduino & optimizing
-  - Fixing memory issues / crashing on rpi (https://twitter.com/stephaniecodes/status/1145342670707003392?s=20) and blocking code on arduino program (https://twitter.com/stephaniecodes/status/1145316338329620480?s=20)
-  - test fit off mannequin and issues (https://twitter.com/stephaniecodes/status/1153390413643862016?s=20) -->
+^ what info does the arduino really need
+^ what can it be condensed down to
+^ 60 & 62
 
 ---
 
-# [fit] Writing light program for arduino & Optimization
+![fit](photos/avoidance.png)
+
+---
+
+![](photos/arduino-commits.png)
+
+---
+
+# [fit] Non-javascript boring stuff
+# [fit] Write a bunch of C++ code for light programs
+
+![](photos/working.jpg)
+
+---
+
+![fit](photos/test.png)
+
+^ Don't wait to the end to actually wear it
+
+---
+
+![right fit](photos/necklace-schema.jpg)
+
+![left fit](photos/gurtel.jpg) 
+
+---
+
+![fit](photos/blubbering.png)
 
 ---
