@@ -451,23 +451,27 @@ If it ain't broke, don't fix it?
 
 ---
 
-# [fit] I wanted to physically connect the 
-# [fit] Raspberry Pi to the necklace's arduino
+# [fit] Physically connect the 
+# [fit] Raspberry Pi to the necklace
 
 ---
 
-# [fit] Serial Ports on Raspberry Pi
+<!-- # [fit] Serial Pins on Raspberry Pi -->
 
-![left fit](photos/rpi-pinouts.png)
+![fit](photos/rpi-pinouts.png)
 
-- Useful for low level communication
-- One for sending, one for receiving
-- Send data from Pi to data pin on Arduino
+^ Useful for low level communication
+^ One for sending, one for receiving
+^ Send data from Pi to data pin on Arduino
 
 ---
 
 ![right fit](photos/pi-serial-issue.png)
 ![left fit](photos/rpi-loopback.jpg)
+
+---
+
+![inline fit](photos/teensy-serial.png)
 
 ---
 
@@ -478,10 +482,6 @@ If it ain't broke, don't fix it?
 
 ---
 
-![inline fit](photos/teensy-serial.png)
-
-
----
 # [fit] Glitchy:
 # [fit] Oh nooooo!
 
@@ -498,7 +498,7 @@ If it ain't broke, don't fix it?
 
 - Switched arduinos
 (Teensy → Adafruit Metro Mini)
-- Got lucky (!!) the CPU was compatible with the library for running the lights
+- Got lucky I choose this one & it is compatible with the library for running the lights
 
 ![right ](photos/swap-arduino-2.png)
 
@@ -516,8 +516,8 @@ If it ain't broke, don't fix it?
 
 ---
 
-# [fit] ‍I use json at my day job,
-# [fit] I'll just use it here too
+# [fit] ‍I use json at work,
+# [fit] I'll use JSON here
 
 ![](photos/serial-coding.png)
 
@@ -525,13 +525,17 @@ If it ain't broke, don't fix it?
 
 [.build-lists: true]
 
-# JSON on Arduino
+# Is JSON on Arduino a thing?
 
 ![left fit](photos/serial-arduino.png)
 
-- Hey, there's an Arduino JSON library
+^ Hey, there's an Arduino JSON library
 
-- Wow, it worked!
+^ Wow, it worked!
+
+---
+
+# [fit] But this was a bad decision
 
 ---
 
@@ -546,6 +550,7 @@ If it ain't broke, don't fix it?
 ![fit](photos/switched-to-bytes.png)
 
 
+^ this is code in the NodeJS App
 ^ what info does the arduino really need
 ^ what can it be condensed down to
 ^ 60 & 62
@@ -557,6 +562,9 @@ If it ain't broke, don't fix it?
 ---
 
 ![](photos/arduino-commits.png)
+
+
+^ actually started writing the C++ for the light programs at end of June
 
 ---
 
@@ -575,7 +583,11 @@ If it ain't broke, don't fix it?
 
 ![right fit](photos/necklace-schema.jpg)
 
-![left fit](photos/gurtel.jpg) 
+![left fit](photos/gurtel.jpg)
+
+^ first idea was to stuffy everything in a fanny pack but that was not working.
+
+^ too much stuff, too big
 
 ---
 
