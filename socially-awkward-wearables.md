@@ -93,17 +93,17 @@ footer: @stephaniecodes
 
 ---
 
-### I'm introverted, awkward, & anxious in social situations.
+### I'm a bit introverted, awkward & anxious in social situations.
 
 ---
 
-### [fit] It's Terrifying & counterinituitive, 
+### [fit] It's terrifying & *counterinituitive*, 
 
-### but I'm fascinated with making myself uncomfortable in public
+### but I'm *fascinated* with making myself *uncomfortable* in public
 
 ---
 
-# [fit] Experiments with wearables
+# [fit] Earlier experiments with wearables
 
 ^ Over past couple years, I've made a couple of wearable projects to gradually explore wearing lighted wearables in public
 
@@ -191,7 +191,7 @@ footer: @stephaniecodes
 
 # Experiment #3:<br/>Speech-to-Image Necklace
 
-![fit left](photos/IMG_6459.mp4)
+![fit left autoplay loop](photos/IMG_6459.mp4)
 
 - Some coding:
     - NodeJS
@@ -217,32 +217,6 @@ footer: @stephaniecodes
 
 ## (I just thought I was using an API)
 
-
----
-
-# Making An Autonomous necklace
-
-![left fill](photos/ml-necklace.mov)
-
----
-
-### I couldn't keep up with a machine learning study group at work.
-
-^But  the real reason i built this is because I couldn't keep up with a machine learning study group at work that was doing a big MOOC course.
-
-^ Everyone else learning fast
-^ All theoretical no practical/tangible
-^ ML4A & Coding Train
-
-
----
-
-### Prove myself
-
-### &
-
-### Validate my learning style
-
 ---
 
 ![fit left](photos/steph.jpg)
@@ -260,24 +234,56 @@ fashion  |  **vivienne westwood**  |  ootds
 
 ---
 
-# How I learned some things
+# Making An Autonomous necklace
 
-- Machine learning for artists  ✨  [https://ml4a.github.io/](https://ml4a.github.io/)
-<br/>
-- The Coding Train  ✨  [https://thecodingtrain.com/](https://thecodingtrain.com/)
+![left autoplay loop fill](photos/ml-necklace.mov)
+
+^ rest of the talk I want to talk through how i built this and the different tech challenges i faced
 
 ---
 
-[.build-lists: true]
+### I couldn't keep up with a machine learning study group at work.
 
-# Reality
+^But  the real reason i built this is because I couldn't keep up with a machine learning study group at work that was doing a big MOOC course.
 
-<!-- ![left fit](photos/too-much-to-do.png) -->
+^ Everyone else learning fast
+^ All theoretical no practical/tangible
+^ ML4A & Coding Train
 
-- Build time: 8 months vs. 3 months
-- It was hard and I got demotivated
-- I still know very little about machine learning
-- I'm good at figuring out things I don't understand
+
+---
+
+![autoplay loop](photos/ml4a.mp4)
+
+---
+
+![autoplay loop](photos/coding train.mp4)
+
+---
+
+### Prove myself
+
+### &
+
+### Validate my learning style
+
+---
+
+
+# [fit] It was hard and
+# [fit] I got demotivated
+
+^ Build time: 8 months vs. 3 months
+
+---
+
+# [fit] I still know very little 
+# [fit] about machine learning
+
+---
+
+# [fit] I'm good at figuring out things
+# [fit] I don't understand
 
 ^ demotivated alot of this year
 ^ easy to hyperfocus and tweak one bit
@@ -568,10 +574,14 @@ If it ain't broke, don't fix it?
 
 ---
 
-# [fit] Non-javascript boring stuff
+# [fit] Non-javascript stuff
 # [fit] Write a bunch of C++ code for light programs
 
 ![](photos/working.jpg)
+
+---
+
+# todo: show some c++ code for logic
 
 ---
 
@@ -590,6 +600,12 @@ If it ain't broke, don't fix it?
 ^ too much stuff, too big
 
 ---
+
+# button ring
+
+
+---
+
 
 ![fit](photos/blubbering.png)
 
