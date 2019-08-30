@@ -14,51 +14,6 @@ footer: @stephaniecodes
 
 [.hide-footer]
 
-<!-- # Outline
-
-- What you are seeing (& not seeing)
-- Intent of project
-- Reasons
-  - ML learning at work
-  - Everyone else learning fast
-  - All theoretical no practical/tangible
-  - ML4A & Coding Train
-- About me
-- Past work
-- Building
-  - long process
-  - demotivated much of the time
-  (https://twitter.com/stephaniecodes/status/1121499375778312193?s=20)
-  - easy to hyperfocus and tweak one bit
-- Process
-  - Tensorflow on Rpi
-  - Create LED necklace out of old LED pieces and arduino
-  - Hookup Rpi to LEDs and send data to necklace
-  - Change LED colors/pattern based on info from pi
-- Tensorflowjs on Raspberry Pi
-    - 1. can get tiny yolo model running in nodejs?
-    (https://twitter.com/stephaniecodes/status/1091036862725218309?s=20)
-    - 2. can get tensorflowjs running on pi?
-        - at time, arm architecture not supported
-        - yalc/build on pi was able to work (https://github.com/tensorflow/tfjs-node/pull/196)
-        https://twitter.com/stephaniecodes/status/1091036862725218309
-    - 3. can I get picamera working and sending pic to model?
-- Creating the LED necklace
-  - reuse and control blinkytiles with arduino (teensy) & fastled library
-    (https://twitter.com/stephaniecodes/status/1095035804106309636?s=20)
-  - design and solder blinkytiles necklace (https://twitter.com/stephaniecodes/status/1104838969202786304?s=20)
-  - issues with flickering - fixing power issues by switching arduino
-    (https://twitter.com/stephaniecodes/status/1113163809005371393?s=12)
-    - power issues with teensy arduino, switch to metro mini (https://twitter.com/stephaniecodes/status/1113162729462861825?s=20)
-- Hookup Rpi to LEDs and send data to necklace
-  - issues
-  (https://twitter.com/stephaniecodes/status/1107546342782574593?s=20)
-  (https://twitter.com/stephaniecodes/status/1109896218736541696?s=20)
-    - sending data from rpi to arduino (https://twitter.com/stephaniecodes/status/1113164378667462656?s=20)
-- Writing light program for arduino & optimizing
-  - Fixing memory issues / crashing on rpi (https://twitter.com/stephaniecodes/status/1145342670707003392?s=20) and blocking code on arduino program (https://twitter.com/stephaniecodes/status/1145316338329620480?s=20)
-  - test fit off mannequin and issues (https://twitter.com/stephaniecodes/status/1153390413643862016?s=20) -->
-
 ---
 
 # An Autonomous necklace
@@ -67,19 +22,19 @@ footer: @stephaniecodes
 
 ---
 
-# [fit] Look at all this tech
+# [fit] Look at all this tech!
 
 ![left fit](photos/necklace-schema.jpg)
 
-- Camera
-- Raspberry Pi
-- Arduino
-- LEDs
-- Battery
-- NodeJS
-- TensorflowJS
-- Tiny-YOLO
-- FastLED
+
+| Hardware | Software |
+| :--- | :--- |
+| Camera | NodeJS |
+| Raspberry Pi | TensorflowJS|
+| Arduino | C++
+| LEDs
+| Battery
+
 
 ---
 
@@ -97,9 +52,10 @@ footer: @stephaniecodes
 
 ---
 
-### [fit] It's terrifying & *counterinituitive*, 
+### [fit] I'm *fascinated* with making myself 
+### [fit] uncomfortable in public
 
-### but I'm *fascinated* with making myself *uncomfortable* in public
+^It's terrifying & counterinituitive but
 
 ---
 
@@ -292,7 +248,7 @@ fashion  |  **vivienne westwood**  |  ootds
 
 <!-- [.build-lists: true]
 
-# Things to Accomplish
+# Autonomous Necklace Recipe
 
 1. Get image recognition ML model running on **Node.js**
 2. Run TensorFlow.js on **Raspberry Pi!**
@@ -303,7 +259,7 @@ fashion  |  **vivienne westwood**  |  ootds
 
 --- -->
 
-# Things to Accomplish
+# Autonomous Necklace Recipe
 
 1. Get image recognition ML model running on **Node.js**
 <br/>
@@ -316,8 +272,9 @@ fashion  |  **vivienne westwood**  |  ootds
 
 # TensorFlow.js
 
-Library for training & running machine learning models in the browser
+^ Library for training & running machine learning models in the browser
 (or Node.js)
+
 
 ^ it's mostly geared towards the browser
 
@@ -345,7 +302,7 @@ Library for training & running machine learning models in the browser
 
 ---
 
-# Things to Accomplish
+# Autonomous Necklace Recipe
 
 1. ~~Get image recognition ML model running on **Node.js**~~
 2. Run TensorFlow.js on **Raspberry Pi!**
@@ -380,7 +337,7 @@ If it ain't broke, don't fix it?
 
 ---
 
-# Things to Accomplish
+# Autonomous Necklace Recipe
 
 1. ~~Get image recognition ML model running on **Node.js**~~
 2. ~~Run TensorFlow.js on **Raspberry Pi!**~~
@@ -406,7 +363,7 @@ If it ain't broke, don't fix it?
 
 ---
 
-# Things to Accomplish
+# Autonomous Necklace Recipe
 
 1. ~~Get image recognition ML model running on **Node.js**~~
 2. ~~Run TensorFlow.js on **Raspberry Pi!**~~
@@ -447,7 +404,7 @@ If it ain't broke, don't fix it?
 
 ---
 
-# Things to Accomplish
+# Autonomous Necklace Recipe
 
 1. ~~Get image recognition ML model running on **Node.js**~~
 2. ~~Run TensorFlow.js on **Raspberry Pi!**~~
@@ -494,19 +451,21 @@ If it ain't broke, don't fix it?
 ![left fill autoplay loop](photos/teensy-power-issues.mov)
 
 ^ long wires
-^ 5V possible but with a bit of modification
+^ 5V tolerant, but with a bit of modification
 ^ Outside my abilities at the time
 ^ So switched boards instead
 
 ---
 
-# Solution
+<!-- ## I switched boards -->
 
-- Switched arduinos
-(Teensy → Adafruit Metro Mini)
-- Got lucky I choose this one & it is compatible with the library for running the lights
+![](photos/teensy.jpg)
+![](photos/metro-mini.jpg)
 
-![right ](photos/swap-arduino-2.png)
+
+---
+
+![](photos/swap-arduino-2.png)
 
 ---
 
