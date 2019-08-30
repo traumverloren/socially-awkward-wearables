@@ -451,21 +451,17 @@ If it ain't broke, don't fix it?
 ![left fill autoplay loop](photos/teensy-power-issues.mov)
 
 ^ long wires
-^ 5V tolerant, but with a bit of modification
+^ 5V possible, but with a bit of modification
 ^ Outside my abilities at the time
 ^ So switched boards instead
 
 ---
 
-<!-- ## I switched boards -->
+## I switched boards
 
 ![](photos/teensy.jpg)
 ![](photos/metro-mini.jpg)
 
-
----
-
-![](photos/swap-arduino-2.png)
 
 ---
 
