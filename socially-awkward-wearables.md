@@ -206,14 +206,13 @@ fashion  |  **vivienne westwood**  |  ootds
 ^ All theoretical no practical/tangible
 ^ ML4A & Coding Train
 
+---
+
+![autoplay loop](photos/coding-train.mp4)
 
 ---
 
 ![autoplay loop](photos/ml4a.mp4)
-
----
-
-![autoplay loop](photos/coding train.mp4)
 
 ---
 
@@ -226,20 +225,20 @@ fashion  |  **vivienne westwood**  |  ootds
 ---
 
 
-# [fit] It was hard and
-# [fit] I got demotivated
+## It was hard and
+## I got demotivated
 
 ^ Build time: 8 months vs. 3 months
 
 ---
 
-# [fit] I still know very little 
-# [fit] about machine learning
+## I still know very little 
+## about machine learning
 
 ---
 
-# [fit] I'm good at figuring out things
-# [fit] I don't understand
+## [fit] I'm good at figuring out things
+## I don't understand
 
 ^ demotivated alot of this year
 ^ easy to hyperfocus and tweak one bit
@@ -261,16 +260,16 @@ fashion  |  **vivienne westwood**  |  ootds
 
 # Autonomous Necklace Recipe
 
-1. Get image recognition ML model running on **Node.js**
+1. **Get image recognition ML model running on Node.js**
 <br/>
 <br/>
 <br/>
 <br/>
-
+<br/>
 
 ---
 
-# TensorFlow.js
+## TensorFlow.js
 
 ^ Library for training & running machine learning models in the browser
 (or Node.js)
@@ -304,8 +303,8 @@ fashion  |  **vivienne westwood**  |  ootds
 
 # Autonomous Necklace Recipe
 
-1. ~~Get image recognition ML model running on **Node.js**~~
-2. Run TensorFlow.js on **Raspberry Pi!**
+1. ~~Get image recognition ML model running on Node.js~~
+2. **Run TensorFlow.js on Raspberry Pi!**
 <br/>
 <br/>
 <br/>
@@ -321,7 +320,7 @@ fashion  |  **vivienne westwood**  |  ootds
 
 ---
 
-### [fit] FYI: I'm running on Tensorflow.js 0.14.2
+# FYI: I'm running on Tensorflow.js 0.14.2
 
 It is a bit hacky, but runs reliable & that's beautiful!
 
@@ -339,9 +338,9 @@ If it ain't broke, don't fix it?
 
 # Autonomous Necklace Recipe
 
-1. ~~Get image recognition ML model running on **Node.js**~~
-2. ~~Run TensorFlow.js on **Raspberry Pi!**~~
-3. Send camera pic to image recognition model on Raspberry Pi
+1. ~~Get image recognition ML model running on Node.js~~
+2. ~~Run TensorFlow.js on Raspberry Pi!~~
+3. **Send camera pic to image recognition model on Raspberry Pi**
 <br/>
 <br/>
 <br/>
@@ -365,10 +364,10 @@ If it ain't broke, don't fix it?
 
 # Autonomous Necklace Recipe
 
-1. ~~Get image recognition ML model running on **Node.js**~~
-2. ~~Run TensorFlow.js on **Raspberry Pi!**~~
+1. ~~Get image recognition ML model running on Node.js~~
+2. ~~Run TensorFlow.js on Raspberry Pi!~~
 3. ~~Send camera pic to image recognition model on Raspberry Pi~~
-4. Create a LED necklace
+4. **Create a LED necklace**
 <br/>
 <br/>
 
@@ -406,11 +405,11 @@ If it ain't broke, don't fix it?
 
 # Autonomous Necklace Recipe
 
-1. ~~Get image recognition ML model running on **Node.js**~~
-2. ~~Run TensorFlow.js on **Raspberry Pi!**~~
+1. ~~Get image recognition ML model running on Node.js~~
+2. ~~Run TensorFlow.js on Raspberry Pi!~~
 3. ~~Send camera pic to image recognition model on Raspberry Pi~~
 4. ~~Create a LED necklace~~
-5. Send image data from the Raspberry Pi to the necklace
+5. **Send image data from the Raspberry Pi to the necklace**
 
 ---
 
@@ -418,8 +417,6 @@ If it ain't broke, don't fix it?
 # [fit] Raspberry Pi to the necklace
 
 ---
-
-<!-- # [fit] Serial Pins on Raspberry Pi -->
 
 ![fit](photos/rpi-pinouts.png)
 
@@ -445,8 +442,12 @@ If it ain't broke, don't fix it?
 
 ---
 
-# [fit] Glitchy:
-# [fit] Oh nooooo!
+# [fit] 🐛 Bugs :( 🐜
+
+---
+
+# [fit] Power issues on necklace
+
 
 ![left fill autoplay loop](photos/teensy-power-issues.mov)
 
@@ -457,27 +458,58 @@ If it ain't broke, don't fix it?
 
 ---
 
-## I switched boards
-
 ![](photos/teensy.jpg)
 ![](photos/metro-mini.jpg)
 
+^ Teensy 3.3V, 5V tolerant
+^ Metro Mini 5V output
+^ Blinkytiles need 5V
+^ I had one lying around
 
 ---
 
-# [fit] Send Data to Necklace
+# [fit] Raspberry Pi Crashing
+
+![left fit](photos/memleaks.jpg)
+
+^ monitor with htop
+
+---
+[.build-lists: true]
+
+# Remember this project?
+
+![right fit autoplay loop](photos/IMG_6459.mp4)
+
+---
+
+# [fit] it was still running at startup 
+# [fit] & HAD A MEMORY LEAK 
+#<br>
+# 🤦‍
+
+![right fit autoplay loop](photos/IMG_6459.mp4)
+
+---
+
+# Autonomous Necklace Recipe
+
+1. ~~Get image recognition ML model running on Node.js~~
+2. ~~Run TensorFlow.js on Raspberry Pi!~~
+3. ~~Send camera pic to image recognition model on Raspberry Pi~~
+4. ~~Create a LED necklace~~
+5. **Send image data from the Raspberry Pi to the necklace**
+
+---
+
+# [fit] What format do I use to send data?
 
 ![](photos/serial-coding.png)
 
 ---
 
-# [fit] But What format do you do this stuff in???? 
 
-![](photos/serial-coding.png)
-
----
-
-# [fit] ‍I use json at work,
+# [fit] ‍I use json everywhere else,
 # [fit] I'll use JSON here
 
 ![](photos/serial-coding.png)
@@ -486,7 +518,7 @@ If it ain't broke, don't fix it?
 
 [.build-lists: true]
 
-# Is JSON on Arduino a thing?
+# JSON on Arduino is a thing!
 
 ![left fit](photos/serial-arduino.png)
 
@@ -518,25 +550,43 @@ If it ain't broke, don't fix it?
 
 ---
 
-![fit](photos/avoidance.png)
-
----
-
 ![](photos/arduino-commits.png)
-
 
 ^ actually started writing the C++ for the light programs at end of June
 
 ---
 
-# [fit] Non-javascript stuff
-# [fit] Write a bunch of C++ code for light programs
-
-![](photos/working.jpg)
+![fit](photos/workonwearables.png)
 
 ---
 
-# todo: show some c++ code for logic
+# Autonomous Necklace Recipe
+
+1. ~~Get image recognition ML model running on Node.js~~
+2. ~~Run TensorFlow.js on Raspberry Pi!~~
+3. ~~Send camera pic to image recognition model on Raspberry Pi~~
+4. ~~Create a LED necklace~~
+5. ~~Send image data from the Raspberry Pi to the necklace~~
+6. **Program the lights to do change based on # of people around**
+
+---
+
+# [fit] Non-javascript stuff
+### (Write a bunch of C++ on arduino)
+
+![](photos/working.jpg)
+
+
+---
+
+![fit](photos/change-program.png)
+
+---
+
+[tiny.cc/ml-necklace](http://tiny.cc/ml-necklace)
+
+
+![fit](photos/change-program.png)
 
 ---
 
@@ -556,7 +606,8 @@ If it ain't broke, don't fix it?
 
 ---
 
-# button ring
+## One last thing:
+## An escape hatch!
 
 
 ---
