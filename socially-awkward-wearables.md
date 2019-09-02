@@ -177,7 +177,7 @@ footer: @stephaniecodes
 
 ![fit left](photos/steph.jpg)
 
-software engineer, [@MicrosoftToDo](https://www.twitter.com/microsofttodo)
+web developer, [@MicrosoftToDo](https://www.twitter.com/microsofttodo)
 
 frontend  -  react  -  js  -  a11y
 
@@ -606,14 +606,19 @@ If it ain't broke, don't fix it?
 
 ---
 
-## One last thing:
-## An escape hatch!
+# [fit] Sometimes, I've had enough
+##<br>
+## 😖 😩 😫
 
-(Add video/photo of button ring)
+![fit](photos/button-program.png)
 
 ^ I decided to add one more feature I hadn't planned for
 ^ a way to turn off the lights completely
 ^ ability to flip how the necklace responds
+
+---
+
+![fit](photos/button-program.png)
 
 ---
 
