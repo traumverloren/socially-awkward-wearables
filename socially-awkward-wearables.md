@@ -567,7 +567,7 @@ If it ain't broke, don't fix it?
 3. ~~Send camera pic to image recognition model on Raspberry Pi~~
 4. ~~Create a LED necklace~~
 5. ~~Send image data from the Raspberry Pi to the necklace~~
-6. **Program the lights to do change based on # of people around**
+6. **Program the lights to change based on # of people around**
 
 ---
 
@@ -609,10 +609,24 @@ If it ain't broke, don't fix it?
 ## One last thing:
 ## An escape hatch!
 
+(Add video/photo of button ring)
+
+^ I decided to add one more feature I hadn't planned for
+^ a way to turn off the lights completely
+^ ability to flip how the necklace responds
 
 ---
-
 
 ![fit](photos/blubbering.png)
 
+^ lots of bugs along the way
+^ always stuff i could have done differently
+
 ---
+
+## Thank you
+
+![fit](photos/blubbering.png)
+
+^ lots of bugs along the way
+^ always stuff i could have done differently
