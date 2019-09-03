@@ -42,18 +42,34 @@ footer: @stephaniecodes
 
 ---
 
-# [fit] A wearable that forces me 
-# [fit] to be *around people* in order to
-# [fit] *not* DRAW ATTENTION
+# Stephanie Nemeth
 
----
+![fit left](photos/steph.jpg)
 
-### I'm a bit introverted, awkward & anxious in social situations.
+web developer, [@MicrosoftToDo](https://www.twitter.com/microsofttodo)
+
+frontend  -  react  -  js  -  a11y
+
+### ✨ Convo starters ✨
+fashion  |  **vivienne westwood**  |  ootds
+
+**bojack**  |  the heartshe, she holler
+
+**dogs** | career changing
 
 ---
 
 ### [fit] I'm *fascinated* with making myself 
 ### [fit] uncomfortable in public
+
+^ I'm a bit introverted, awkward & anxious in social situations.
+^ I'm usually always uncomfortable in social settings.
+
+---
+
+# [fit] A wearable that forces me 
+# [fit] to be *around people* in order to
+# [fit] *not* DRAW ATTENTION
 
 ^It's terrifying & counterinituitive but
 
@@ -64,8 +80,6 @@ footer: @stephaniecodes
 ^ Over past couple years, I've made a couple of wearable projects to gradually explore wearing lighted wearables in public
 
 ^ How people react in general
-
-^ How people react to me being the maker
 
 ^ How I react to people reacting
 
@@ -86,7 +100,7 @@ footer: @stephaniecodes
 
 ![fill left](photos/wip-1.jpg)
 
-# Experiment #1:<br/>Jellyfish Dress
+# Fiber Optic Dress
 
 - Bought a kit: [tiny.cc/fiber-optic-kit](tiny.cc/fiber-optic-kit)
 - Followed an Instructables tutorial
@@ -121,7 +135,7 @@ footer: @stephaniecodes
 
 ![50% autoplay loop right](photos/haute-app.mov)
 
-# Experiment #2:<br/>Haute Codeture
+# Haute Codeture
 
 - Lots of coding:
     - React, NodeJS, MQTT, Arduino
@@ -145,7 +159,7 @@ footer: @stephaniecodes
 
 ---
 
-# Experiment #3:<br/>Speech-to-Image Necklace
+# Speech-to-Image Necklace
 
 ![fit left autoplay loop](photos/IMG_6459.mp4)
 
@@ -160,9 +174,9 @@ footer: @stephaniecodes
 
 ![fit left autoplay loop](photos/IMG_6459.mp4)
 
-# [fit] Responsive without any direct input
+# [fit] Responsive to the environment
 
-# [fit] but needed wifi to work
+# [fit] but needs wifi to work
 
 ---
 
@@ -172,21 +186,6 @@ footer: @stephaniecodes
 🤷‍
 
 ## (I just thought I was using an API)
-
----
-
-![fit left](photos/steph.jpg)
-
-web developer, [@MicrosoftToDo](https://www.twitter.com/microsofttodo)
-
-frontend  -  react  -  js  -  a11y
-
-### ✨ Convo starters ✨
-fashion  |  **vivienne westwood**  |  ootds
-
-**bojack**  |  the heartshe, she holler
-
-**dogs** | career changing
 
 ---
 
@@ -200,27 +199,24 @@ fashion  |  **vivienne westwood**  |  ootds
 
 ### I couldn't keep up with a machine learning study group at work.
 
-^But  the real reason i built this is because I couldn't keep up with a machine learning study group at work that was doing a big MOOC course.
+^But the real reason i built this is because I couldn't keep up with a machine learning study group at work that was doing a big MOOC course.
 
 ^ Everyone else learning fast
 ^ All theoretical no practical/tangible
-^ ML4A & Coding Train
+
+^ Prove myself & Validate my learning style
 
 ---
 
 ![autoplay loop](photos/coding-train.mp4)
 
+^ NOTES
+
 ---
 
 ![autoplay loop](photos/ml4a.mp4)
 
----
-
-### Prove myself
-
-### &
-
-### Validate my learning style
+^ NOTES
 
 ---
 
