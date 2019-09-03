@@ -16,29 +16,31 @@ footer: @stephaniecodes
 
 ---
 
-# An Autonomous necklace
+# I built an autonomous necklace
 
 ![left fill autoplay loop](photos/ml-necklace.mov)
 
+^ I want to spend the next 30 minutes talking about my necklace
+
+
 ---
 
-# [fit] Look at all this tech!
+# [fit] Loaded with tech
 
 ![left fit](photos/necklace-schema.jpg)
 
 
 | Hardware | Software |
 | :--- | :--- |
-| Camera | NodeJS |
-| Raspberry Pi | TensorflowJS|
-| Arduino | C++
+| Raspberry Pi | NodeJS |
+| Arduino | TensorflowJS|
+| Camera | C++
 | LEDs
 | Battery
 
-
----
-
-## [fit] *WHY* is just as important as *HOW*
+^ 2 pieces hardware communicating together (rpi & arduino)
+^ Multiple pieces of software - node and tensorflow js running a machine learning model on the pi tucked away on my midsectino 
+^ & c++ receiving data and updating the leds on the necklace
 
 ---
 
@@ -53,9 +55,21 @@ frontend  -  react  -  js  -  a11y
 ### ✨ Convo starters ✨
 fashion  |  **vivienne westwood**  |  ootds
 
-**bojack**  |  the heartshe, she holler
+**bojack**  |  the heart, she holler
 
-**dogs** | career changing
+**dogs**
+
+^ Hi, I'm stephanie.
+
+^ i'm a tech fashion maker in my free time.
+
+^ i'm a frontend dev at my day job.
+
+---
+
+## [fit] *WHY* is just as important as *HOW*
+
+^ there's a lot to talk about regarding the how this is constructed and all the decisions I made to complete this project, but i find the why i built this is equally as appealing as the build process.
 
 ---
 
@@ -71,7 +85,9 @@ fashion  |  **vivienne westwood**  |  ootds
 # [fit] to be *around people* in order to
 # [fit] *not* DRAW ATTENTION
 
-^It's terrifying & counterinituitive but
+^ It's terrifying & counterinituitive but
+^ EXPLAIN THIS SLIDE BETTER
+
 
 ---
 
