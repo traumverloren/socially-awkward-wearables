@@ -20,8 +20,9 @@ footer: @stephaniecodes
 
 ![left fill autoplay loop](photos/ml-necklace.mov)
 
-^ I want to spend the next 30 minutes talking about my necklace
+^ We are at a tech conf, but I want to spend the next 30 minutes talking about my necklace
 
+^ This necklace is responding to the number of people around me and adjusting its lighting to correspond with that. It may not be adjusting the way that you would expect, but I'll get to that in a bit.
 
 ---
 
@@ -38,9 +39,17 @@ footer: @stephaniecodes
 | LEDs
 | Battery
 
-^ 2 pieces hardware communicating together (rpi & arduino)
-^ Multiple pieces of software - node and tensorflow js running a machine learning model on the pi tucked away on my midsectino 
+^ How is it responding?
+
+^ Well, as you can see in these lists, I've utilized alot of different tech into it.
+
+^ Hopefully, it is a surprise to see all this stuff listed since I hope that I have concealed all the bulky items that allow it to run well!
+
+^ I 2 pieces hardware communicating together (rpi & arduino)
+^ Multiple pieces of software - node and tensorflow js running a machine learning model on the pi tucked away on my midsection 
 ^ & c++ receiving data and updating the leds on the necklace
+
+^ there's a lot to talk about regarding the how this is constructed and all the decisions I made to complete this project, but i find the why i built this is equally as appealing as the build process.
 
 ---
 
@@ -61,15 +70,11 @@ fashion  |  **vivienne westwood**  |  ootds
 
 ^ Hi, I'm stephanie.
 
+^ i'm a frontend dev during the day.
+
 ^ i'm a tech fashion maker in my free time.
 
-^ i'm a frontend dev at my day job.
-
----
-
-## [fit] *WHY* is just as important as *HOW*
-
-^ there's a lot to talk about regarding the how this is constructed and all the decisions I made to complete this project, but i find the why i built this is equally as appealing as the build process.
+^ i love to talk about non-tech things, so I thought i'd include some convos starters if you see me around please chat!
 
 ---
 
@@ -77,7 +82,7 @@ fashion  |  **vivienne westwood**  |  ootds
 ### [fit] uncomfortable in public
 
 ^ I'm a bit introverted, awkward & anxious in social situations.
-^ I'm usually always uncomfortable in social settings.
+^ I'm usually a guarantee that i'm uncomfortable in social settings.
 
 ---
 
