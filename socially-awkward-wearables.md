@@ -20,9 +20,13 @@ footer: @stephaniecodes
 
 ![left fill autoplay loop](photos/ml-necklace.mov)
 
-^ We are at a tech conf, but I want to spend the next 30 minutes talking about my necklace
+^ We are at a tech conf, and I'm to spend the next 30 minutes talking about my necklace
 
-^ This necklace is responding to the number of people around me and adjusting its lighting to correspond with that. It may not be adjusting the way that you would expect, but I'll get to that in a bit.
+^ I still can't believe i built this thing and it works and looks cool.
+
+^ So what is special about this necklace?
+
+^ It's is responding to the number of people around me and adjusting its lighting to correspond with that. It may not be adjusting the way that you would expect, but I'll get to that in a bit.
 
 ---
 
@@ -41,15 +45,21 @@ footer: @stephaniecodes
 
 ^ How is it responding?
 
-^ Well, as you can see in these lists, I've utilized alot of different tech into it.
+^ Well, as you can see in these 2 lists, I've utilized a lot of different tech to make this.
 
 ^ Hopefully, it is a surprise to see all this stuff listed since I hope that I have concealed all the bulky items that allow it to run well!
 
-^ I 2 pieces hardware communicating together (rpi & arduino)
-^ Multiple pieces of software - node and tensorflow js running a machine learning model on the pi tucked away on my midsection 
-^ & c++ receiving data and updating the leds on the necklace
+^ I have 2 main pieces hardware communicating together (rpi & arduino)
 
-^ there's a lot to talk about regarding the how this is constructed and all the decisions I made to complete this project, but i find the why i built this is equally as appealing as the build process.
+^ I have a camera attached to a rpi.
+
+^ Multiple pieces of software - node and tensorflow js running a machine learning model on the pi tucked away on my midsection. This model is receiving the picture taken by the camera and running an image recognition model to identify what it sees.
+
+^ After the ML model on the pi determines how many people it sees, it sends this info to the arduino.
+
+^ I have the arduino running c++ code which then receives this info about it's surroundings and updates the colors and patterns of leds on the necklace based on parameters i've set for how it should respond.
+
+^ FIGURE OUT A TRANSITION HERE
 
 ---
 
@@ -64,9 +74,7 @@ frontend  -  react  -  js  -  a11y
 ### ✨ Convo starters ✨
 fashion  |  **vivienne westwood**  |  ootds
 
-**bojack**  |  the heart, she holler
-
-**dogs**
+**bojack**  |  dogs
 
 ^ Hi, I'm stephanie.
 
@@ -82,7 +90,7 @@ fashion  |  **vivienne westwood**  |  ootds
 ### [fit] uncomfortable in public
 
 ^ I'm a bit introverted, awkward & anxious in social situations.
-^ I'm usually a guarantee that i'm uncomfortable in social settings.
+^ It's usually a guarantee that i'm uncomfortable in social settings.
 
 ---
 
@@ -96,9 +104,12 @@ fashion  |  **vivienne westwood**  |  ootds
 
 ---
 
-# [fit] Earlier experiments with wearables
+# [fit] I've been evolving my exploration of this 
+# [fit]topic without even realizing it
 
-^ Over past couple years, I've made a couple of wearable projects to gradually explore wearing lighted wearables in public
+^ I've been exploring this topic in increasingly complex projects over the past couple years without even realizing it.
+
+^ Increasingly curious of:
 
 ^ How people react in general
 
@@ -106,27 +117,28 @@ fashion  |  **vivienne westwood**  |  ootds
 
 ---
 
-![fill](photos/dress-1.jpg)
-![fill](photos/dress-2.jpg)
-![fill](photos/dress-3.jpg)
-![fill](photos/dress-4.jpg)
+![fill original](photos/dress-1.jpg)
+![fill original](photos/dress-2.jpg)
+![fill original](photos/dress-3.jpg)
+![fill original](photos/dress-4.jpg)
+
+
+### [tiny.cc/fiber-optic-kit](tiny.cc/fiber-optic-kit)
+
+<br>
+
+
+^ i was going to a festival and thought this is what you were supposed to do.
+
+^ saw someone's work in a instructables tutorial and copied it exactly.
 
 ^ fiber optic whip kit
 
 ^ base is a flashlight with programmed programs
 
 ^ stitched to white dress sewn by my mom.
-
----
-
-![fill left](photos/wip-1.jpg)
-
-# Fiber Optic Dress
-
-- Bought a kit: [tiny.cc/fiber-optic-kit](tiny.cc/fiber-optic-kit)
-- Followed an Instructables tutorial
-- No coding, pre-programmed
-- No soldering, only sewing
+^ No coding, pre-programmed
+^ No soldering, only sewing
 
 ---
 
@@ -148,24 +160,21 @@ fashion  |  **vivienne westwood**  |  ootds
 
 ![fill autoplay loop](photos/intro-clip.mov)
 
+### [tiny.cc/haute-codeture](http://tiny.cc/haute-codeture)
+
+<br>
+
 
 ^ Multiple coordinated pieces
 ^ Anyone on the web could control the lights
+^ Lots of coding:
+^React, NodeJS, MQTT, Arduino
+^ Lots of soldering
+^ Gave talks about this project last year, check out link
 
 ---
 
 ![50% autoplay loop right](photos/haute-app.mov)
-
-# Haute Codeture
-
-- Lots of coding:
-    - React, NodeJS, MQTT, Arduino
-- Lots of soldering
-- [tiny.cc/haute-codeture](http://tiny.cc/haute-codeture)
-
----
-
-![fill left](photos/haute-codeture-2.jpg)
 
 ## People *really* liked controlling how I looked.
 
@@ -180,16 +189,16 @@ fashion  |  **vivienne westwood**  |  ootds
 
 ---
 
-# Speech-to-Image Necklace
-
 ![fit left autoplay loop](photos/IMG_6459.mp4)
 
-- Some coding:
-    - NodeJS
-    - Google cloud speech recognition API
-    - Google Custom Search API
-- No soldering
-- [tiny.cc/speech-to-image](http://tiny.cc/speech-to-image)
+
+### [tiny.cc/speech-to-image](http://tiny.cc/speech-to-image)
+
+^ Some coding:
+^ NodeJS
+^ Google cloud speech recognition API
+^ Google Custom Search API
+^ No soldering
 
 ---
 
@@ -214,7 +223,14 @@ fashion  |  **vivienne westwood**  |  ootds
 
 ![left autoplay loop fill](photos/ml-necklace.mov)
 
-^ rest of the talk I want to talk through how i built this and the different tech challenges i faced
+
+^ I've kind of misled you though.
+
+^ I've shown the projects that I made before this and the progression of my work.
+
+^ I honestly didn't realize how my work has built upon the topic of attracting human attention and how others and myself deal with that attention until I started writing this talk.
+
+^ There is a definite moment when I decided to build this project.
 
 ---
 
