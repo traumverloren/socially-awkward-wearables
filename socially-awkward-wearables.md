@@ -45,44 +45,21 @@ footer: @stephaniecodes
 
 ^ How is it responding?
 
-^ Well, as you can see in these 2 lists, I've utilized a lot of different tech to make this.
+^ Well, as you can see in these lists, I've utilized a lot of different tech to make this work.
 
 ^ Hopefully, it is a surprise to see all this stuff listed since I hope that I have concealed all the bulky items that allow it to run well!
 
-^ I have 2 main pieces hardware communicating together (rpi & arduino)
+^ I have 2 main pieces of hardware communicating together (rpi & arduino)
 
 ^ I have a camera attached to a rpi.
 
-^ Multiple pieces of software - node and tensorflow js running a machine learning model on the pi tucked away on my midsection. This model is receiving the picture taken by the camera and running an image recognition model to identify what it sees.
+^ Multiple pieces of software - node and tensorflowjs are running a machine learning model on the pi that is tucked away on my midsection. This model is receiving the picture taken by the camera and running an image recognition model to identify what it sees.
 
 ^ After the ML model on the pi determines how many people it sees, it sends this info to the arduino.
 
 ^ I have the arduino running c++ code which then receives this info about it's surroundings and updates the colors and patterns of leds on the necklace based on parameters i've set for how it should respond.
 
-^ FIGURE OUT A TRANSITION HERE
-
----
-
-# Stephanie Nemeth
-
-![fit left](photos/steph.jpg)
-
-web developer, [@MicrosoftToDo](https://www.twitter.com/microsofttodo)
-
-frontend  -  react  -  js  -  a11y
-
-### ✨ Convo starters ✨
-fashion  |  **vivienne westwood**  |  ootds
-
-**bojack**  |  dogs
-
-^ Hi, I'm stephanie.
-
-^ i'm a frontend dev during the day.
-
-^ i'm a tech fashion maker in my free time.
-
-^ i love to talk about non-tech things, so I thought i'd include some convos starters if you see me around please chat!
+^ FIGURE OUT A TRANSITION HERE!!!!!
 
 ---
 
@@ -147,6 +124,10 @@ fashion  |  **vivienne westwood**  |  ootds
 ## [fit] First time wearing lights 
 ## [fit] & people liked it!
 
+^ I felt awkward, but got lots of compliments.
+
+^ Self-esteem boost.
+
 ---
 
 ![fill left](photos/bike-ride.jpg)
@@ -164,7 +145,6 @@ fashion  |  **vivienne westwood**  |  ootds
 
 <br>
 
-
 ^ Multiple coordinated pieces
 ^ Anyone on the web could control the lights
 ^ Lots of coding:
@@ -174,18 +154,22 @@ fashion  |  **vivienne westwood**  |  ootds
 
 ---
 
-![50% autoplay loop right](photos/haute-app.mov)
-
-## People *really* liked controlling how I looked.
-
----
-
 ![fill left](photos/haute-codeture-2.jpg)
 
 ## *Limitations:*
 ## Dependent on wifi and an app
 
 ^ Stuck with keeping my phone on me, having a network connection
+
+---
+
+![50% autoplay loop right](photos/haute-app.mov)
+
+## People *really* liked controlling how I looked.
+
+^ Realized I was doing it more to please and surprise people which is OK but less of the direction i was interested in.
+
+^ Wanted to take the need direct interaction. 
 
 ---
 
@@ -199,23 +183,28 @@ fashion  |  **vivienne westwood**  |  ootds
 ^ Google cloud speech recognition API
 ^ Google Custom Search API
 ^ No soldering
+^ Responsive to the environment
+^ still needed wifi
 
 ---
 
 ![fit left autoplay loop](photos/IMG_6459.mp4)
 
-# [fit] Responsive to the environment
-
-# [fit] but needs wifi to work
-
----
-
-# [fit] I accidently made something
-# [fit] with *machine learning* & didn't realize it.
+# [fit] I accidently made a thing 
+# [fit] with *machine learning* 
+# [fit] and hadn't realize it.
 
 🤷‍
 
-## (I just thought I was using an API)
+### (I just thought I was using an API)
+
+^ Ironically I also didn't realize I had really worked with ML before my current project until I really looked back and thought about this project.
+
+^ ML is so ubiquitous/pervasive, I used it in this project and didn't really like I was using it.
+
+^ I was using an API that I sent data to and got a response.
+
+^ I wasn't particularly excited about ML at the time tbh, didn't think it was "my thing"
 
 ---
 
@@ -223,6 +212,8 @@ fashion  |  **vivienne westwood**  |  ootds
 
 ![left autoplay loop fill](photos/ml-necklace.mov)
 
+
+^
 
 ^ I've kind of misled you though.
 
@@ -662,9 +653,26 @@ If it ain't broke, don't fix it?
 
 ---
 
-## Thank you
+<!-- ## Thank you
 
 ![fit](photos/blubbering.png)
 
 ^ lots of bugs along the way
 ^ always stuff i could have done differently
+
+--- -->
+
+# Stephanie Nemeth
+
+![fit left](photos/steph.jpg)
+
+web developer, [@MicrosoftToDo](https://www.twitter.com/microsofttodo)
+
+<!-- frontend  -  react  -  js  -  a11y -->
+
+### ✨ Convo starters ✨
+fashion  |  **vivienne westwood**  |  ootds
+
+**bojack**  |  dogs
+
+^ i love to talk about non-tech things, so I thought i'd include some convos starters if you see me around please chat!
