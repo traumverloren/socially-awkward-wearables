@@ -145,7 +145,9 @@ footer: @stephaniecodes
 
 <br>
 
+^ last year i made this project
 ^ Multiple coordinated pieces
+^ lights controlled over wifi with a web app
 ^ Anyone on the web could control the lights
 ^ Lots of coding:
 ^React, NodeJS, MQTT, Arduino
@@ -159,6 +161,7 @@ footer: @stephaniecodes
 ## *Limitations:*
 ## Dependent on wifi and an app
 
+^ thing that made it possible was also my least fav thing about it
 ^ Stuck with keeping my phone on me, having a network connection
 
 ---
@@ -169,19 +172,21 @@ footer: @stephaniecodes
 
 ^ Realized I was doing it more to please and surprise people which is OK but less of the direction i was interested in.
 
-^ Wanted to take the need direct interaction. 
+^ Wanted to take away the need direct interaction. 
 
 ---
 
 ![fit left autoplay loop](photos/IMG_6459.mp4)
 
-
 ### [tiny.cc/speech-to-image](http://tiny.cc/speech-to-image)
 
-^ Some coding:
-^ NodeJS
+^ next project I did, i also did last year.
+^ I have a raspberry pi with a touchscreen plugged and a microphone. 
+^ The, I have it running a
+^ NodeJS server with
 ^ Google cloud speech recognition API
 ^ Google Custom Search API
+^ that is sending what i say to the google speech recognition api and then performing a custom image search of key words it picks out from what i'm saying and then shows an image to correlate.
 ^ No soldering
 ^ Responsive to the environment
 ^ still needed wifi
@@ -198,13 +203,13 @@ footer: @stephaniecodes
 
 ### (I just thought I was using an API)
 
-^ Ironically I also didn't realize I had really worked with ML before my current project until I really looked back and thought about this project.
+^ Ironically I also didn't realize I had really worked with ML before this current project until I really looked back and thought about this project.
 
-^ ML is so ubiquitous/pervasive, I used it in this project and didn't really like I was using it.
+^ ML is so ubiquitous/pervasive, I used it in this project and didn't really understand that I was using it.
 
-^ I was using an API that I sent data to and got a response.
+^ I was just using an API that I sent data to and got a response.
 
-^ I wasn't particularly excited about ML at the time tbh, didn't think it was "my thing"
+^ I wasn't particularly excited about ML at the time tbh nor thought it was "my thing"
 
 ---
 
@@ -212,16 +217,13 @@ footer: @stephaniecodes
 
 ![left autoplay loop fill](photos/ml-necklace.mov)
 
+^ so that's the projects that have been leading up to this one and and how i have progressed in my work with wearables.
 
-^
+^ honestly i didn't quite realize how my all work has built upon the topic of attracting human attention and observing how others and myself deal with that attention until I started writing this talk.
 
-^ I've kind of misled you though.
+^ I've kind of misled you though. Though this progression of my work is a convincing reason for me to build this project, 
 
-^ I've shown the projects that I made before this and the progression of my work.
-
-^ I honestly didn't realize how my work has built upon the topic of attracting human attention and how others and myself deal with that attention until I started writing this talk.
-
-^ There is a definite moment when I decided to build this project.
+^ There is a definite moment when I decided to build it.
 
 ---
 
@@ -230,9 +232,10 @@ footer: @stephaniecodes
 ^But the real reason i built this is because I couldn't keep up with a machine learning study group at work that was doing a big MOOC course.
 
 ^ Everyone else learning fast
-^ All theoretical no practical/tangible
-
-^ Prove myself & Validate my learning style
+^ All theoretical, no practical/tangible
+^ i was falling behind from the first study group and was beating myself up about it.
+^ i had just started a new job at mega tech corp and felt really insecure (still do, that doesn't change unfortunately).
+^ i wanted to prove myself & validate my learning style
 
 ---
 
@@ -252,12 +255,16 @@ footer: @stephaniecodes
 ## It was hard and
 ## I got demotivated
 
-^ Build time: 8 months vs. 3 months
+^ Build time: 3 months into 8+ months
 
 ---
 
 ## I still know very little 
 ## about machine learning
+
+^ I know the minimum to setup a trained model and run my data through it.
+
+^ I envisioned by this time this year i'd be doing other weird things with deep learning and training models and generating weird art but I haven't gotten to it yet.
 
 ---
 
@@ -266,6 +273,7 @@ footer: @stephaniecodes
 
 ^ demotivated alot of this year
 ^ easy to hyperfocus and tweak one bit
+^ but i persevered and took breaks when i needed them but still put in the work.
 
 ---
 
@@ -291,15 +299,26 @@ footer: @stephaniecodes
 <br/>
 <br/>
 
+^ There were several steps i had to take to make this necklace.
+
+^ There were 2 things i wasn't sure if they were even possible when i started:
+^ 1. running ml models in node instead of browser
+^ 2. run ml models in node on a rpi
+ so i wanted to tackle those first before i invested time in making a wearable.
+
 ---
 
 ## TensorFlow.js
 
+^ i wanted to do all the machine learning in JS.
+
 ^ Library for training & running machine learning models in the browser
 (or Node.js)
 
-
 ^ it's mostly geared towards the browser
+
+^ there are other libraries but this is well-supported with many pre-trained models and info on the internet.
+
 
 ---
 
@@ -309,8 +328,10 @@ footer: @stephaniecodes
 
 ## *Y*ou *O*nly *L*ook *O*nce
 
-- Pretrained model
-- Fast **in-browser** image detection
+<br>
+ Fast **in-browser** image detection
+
+^ Pre-trained model
 
 ---
 
