@@ -37,11 +37,11 @@ footer: @stephaniecodes
 
 | Hardware | Software |
 | :--- | :--- |
-| Raspberry Pi | NodeJS |
-| Arduino | TensorflowJS|
-| Camera | C++
-| LEDs
-| Battery
+| - Raspberry Pi | - NodeJS |
+| - Arduino | - Tensorflow.js|
+| - Camera | - C++
+| - LEDs
+| - Battery
 
 ^ How is it responding?
 
@@ -59,9 +59,28 @@ footer: @stephaniecodes
 
 ^ I have the arduino running c++ code which then receives this info about it's surroundings and updates the colors and patterns of leds on the necklace based on parameters i've set for how it should respond.
 
-^ FIGURE OUT A TRANSITION HERE!!!!!
+^ maybe you are curious what kind of person might make such a thing?
+
+^ maybe an extraverted person that loves attention? sorry no
 
 ---
+
+
+# Stephanie Nemeth
+
+![fit left](photos/steph.jpg)
+
+web developer, [@MicrosoftToDo](https://www.twitter.com/microsofttodo)
+
+<br>
+
+| Likes | Dislikes |
+| :--- | :--- |
+| - Fashion | - Being in crowds  |
+| - LEDs | - Drawing attention
+| - Tech things
+
+----
 
 ### [fit] I'm *fascinated* with making myself 
 ### [fit] uncomfortable in public
@@ -268,8 +287,8 @@ footer: @stephaniecodes
 
 ---
 
-## [fit] I'm good at figuring out things
-## I don't understand
+## [fit] But I'm good at figuring out
+## things I don't understand
 
 ^ demotivated alot of this year
 ^ easy to hyperfocus and tweak one bit
@@ -289,6 +308,15 @@ footer: @stephaniecodes
 6. Make the necklace responsive to data
 
 --- -->
+ 
+##  Yay! Javascript!
+
+^ There were 2 things i wasn't sure if they were even possible when i started:
+^ 1. running ml models in node instead of browser
+^ 2. run ml models in node on a rpi
+ so i wanted to tackle those first before i invested time in making a wearable.
+
+---
 
 # Autonomous Necklace Recipe
 
@@ -300,11 +328,6 @@ footer: @stephaniecodes
 <br/>
 
 ^ There were several steps i had to take to make this necklace.
-
-^ There were 2 things i wasn't sure if they were even possible when i started:
-^ 1. running ml models in node instead of browser
-^ 2. run ml models in node on a rpi
- so i wanted to tackle those first before i invested time in making a wearable.
 
 ---
 
@@ -318,7 +341,6 @@ footer: @stephaniecodes
 ^ it's mostly geared towards the browser
 
 ^ there are other libraries but this is well-supported with many pre-trained models and info on the internet.
-
 
 ---
 
@@ -344,6 +366,10 @@ footer: @stephaniecodes
 - Modify `import`/`export` statements
 - Load image file vs. `MediaDevices.getUserMedia()`
 
+^ lots of minor code changes to do to run browser based models in node instead. 
+
+^ warning that i'm not going to show a bunch of code during this talk since this code is v specific to my project. i will share links to repos i used, hand wavey discussion of the code of what i did at each step in general terms.
+
 ---
 
 # Autonomous Necklace Recipe
@@ -359,9 +385,13 @@ footer: @stephaniecodes
 
 ![fit](photos/tfjs-pr.png)
 
+^ i got really lucky that the tf.js team had just made a change for this, though it wasn't in released build yet (still in a branch they were working on)
+
 ---
 
 ![fit](photos/tensorflow-github.png)
+
+^ i needed to use a package (yalc) to build it locally on my pi from their commit, but it worked!
 
 ---
 
@@ -474,6 +504,10 @@ If it ain't broke, don't fix it?
 ![right fit](photos/pi-serial-issue.png)
 ![left fit](photos/rpi-loopback.jpg)
 
+^ i had a lot of trouble with this!
+^ loopback
+^ i couldn't event get a loopback to work.
+
 ---
 
 ![inline fit](photos/teensy-serial.png)
@@ -487,7 +521,7 @@ If it ain't broke, don't fix it?
 
 ---
 
-# [fit] 🐛 Bugs :( 🐜
+# [fit] but I had bugs that were really bad
 
 ---
 
@@ -597,6 +631,8 @@ If it ain't broke, don't fix it?
 
 ![](photos/arduino-commits.png)
 
+^ took big gaps of time between working on the project
+
 ^ actually started writing the C++ for the light programs at end of June
 
 ---
@@ -621,10 +657,12 @@ If it ain't broke, don't fix it?
 
 ![](photos/working.jpg)
 
-
 ---
 
 ![fit](photos/change-program.png)
+
+^ setup and loop
+^ get a message, get peopleCount, update program
 
 ---
 
@@ -682,12 +720,11 @@ If it ain't broke, don't fix it?
 ^ always stuff i could have done differently
 
 --- -->
-
-# Stephanie Nemeth
+# Thanks!
 
 ![fit left](photos/steph.jpg)
 
-web developer, [@MicrosoftToDo](https://www.twitter.com/microsofttodo)
+[stephanie.lol](https://stephanie.lol)
 
 <!-- frontend  -  react  -  js  -  a11y -->
 
