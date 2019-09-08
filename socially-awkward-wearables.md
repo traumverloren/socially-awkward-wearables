@@ -41,8 +41,10 @@ footer: @stephaniecodes
 
 ^ Well, as you can see in these lists, I've utilized a lot of different tech to make this work.
 
-^ Camera is taking a picture every couple seconds.
-^ Camera is attached to rpi.
+^ Camera is taking a picture every couple seconds
+
+^ Camera is attached to rpi
+
 ^ RPI is running NodeJS & tensorflowjs and an image recognition model that determines what it sees in the picture
 
 ^ After the ML model on the pi determines how many people it sees, it sends this info to an arduino.
@@ -102,11 +104,11 @@ web developer, [@MicrosoftToDo](https://www.twitter.com/microsofttodo)
 <br>
 
 
-^ i was going to a festival and thought this is what you were supposed to do.
-
+^ i was going to a festival
 ^ saw someone's work in a instructables tutorial and copied it exactly.
 
 ^ bought a kit with preset light programs
+
 ^ sewed to a dress
 
 ---
@@ -128,16 +130,17 @@ web developer, [@MicrosoftToDo](https://www.twitter.com/microsofttodo)
 
 <br>
 
-^ Gave talks about this project last year, check out link
-^ I built an app to control the lights
-^ Anyone on the web could control the lights
-^ Lots of coding:
-^React, NodeJS, MQTT, Arduino
-^ Lots of soldering
+^ in this project i wanted the lights to be able to be changed by other people.
 
-^ growing Increasingly curious of:
-^ How people react in general
-^ How I react to people reacting
+^ Gave talks about this project last year, check out link
+
+^ I built an app to control the lights
+
+^ Anyone on the web could control the lights
+
+^ Lots of coding: React, NodeJS, MQTT, Arduino
+
+^ Lots of soldering
 
 ---
 
@@ -146,11 +149,11 @@ web developer, [@MicrosoftToDo](https://www.twitter.com/microsofttodo)
 ## [fit] a web app for your outfit is
 ## [fit] both good and bad
 
-^ i didn't like being dependent on wifi/network connection
-^ Stuck with keeping my phone on me, having a network connection
-^ Realized I was doing it more to please and surprise people which is OK but less of the direction i was interested in.
+^ i didn't like being Stuck with keeping my phone on me, to have a network connection
 
-^ Wanted to take away the need direct interaction. 
+^ Realized I was doing it more to please and focus on other people which is OK but less of the direction i was interested in.
+
+^ Wanted to take away the need direct interaction of others, more focused on me and what i was experiencing. 
 
 ---
 
@@ -159,12 +162,15 @@ web developer, [@MicrosoftToDo](https://www.twitter.com/microsofttodo)
 ### [tiny.cc/speech-to-image](http://tiny.cc/speech-to-image)
 
 ^ this is the last project i did.
-^ I have a raspberry pi with a touchscreen plugged and a microphone.
-^ The, I have a
-^ NodeJS server running
-^ that is sending what i say to the google speech recognition api and then sending a request to the google custom search api from what i'm saying and then shows an image to correlate.
-^ No soldering
+
+^ i wanted to make a necklace that would show accompanying images as i was speaking to someone so they would find me interesting and what to engage in conversation with me.
+
+^ I have a raspberry pi with a touchscreen and a microphone.
+
+^ NodeJS server runningthat is sending audio to the google speech recognition api and then sending those keywords to the google search api from and finally is showing an image that correlates to what i'm saying.
+
 ^ Responsive to the environment
+
 ^ still needed wifi
 
 ---
@@ -191,11 +197,9 @@ web developer, [@MicrosoftToDo](https://www.twitter.com/microsofttodo)
 
 ![left autoplay loop fill](photos/ml-necklace.mov)
 
-^ so that's the projects that have been leading up to this one and and how i have progressed in my work with wearables.
-
 ^ I've kind of misled you though. Though this progression of my work is a convincing reason for me to build this necklace, 
 
-^ There is a defining moment when I decided to build it.
+^ There was really a defining moment when I decided to build it.
 
 ---
 
@@ -203,11 +207,15 @@ web developer, [@MicrosoftToDo](https://www.twitter.com/microsofttodo)
 
 ^But the real reason i built this is because I couldn't keep up with a machine learning study group at work.
 
-^ i had just started a new job at mega tech corp and felt really insecure with my skills.
+^ i had just started a new job at a big tech co and felt really insecure with my skills.
+
 ^ Everyone else learning fast
-^ All theoretical, no practical/tangible
+
 ^ i was falling behind from the first study group and was beating myself up about it.
+
 ^ i wanted to prove myself & validate my learning style
+
+^ All theoretical, no practical/tangible
 
 ^ so i found other ways to learn and decided to create a physical use case for ML that was relevant to me and my interests
 
@@ -223,25 +231,9 @@ first is coding train
 ![autoplay loop](photos/ml4a.mp4)
 
 ^ second is the ML 4 artist courses by gene kogan
-^ i was super inspired by all the experiments artists are doing around ml 
+^ i was super inspired by all the experiments artists are doing around ml
 
----
-
-# Autonomous Necklace Recipe
-
-1. **Get image recognition ML model running on Node.js**
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-^ There were several steps i had to take to make this necklace.
-
-^ There were 2 things i wasn't sure if they were even possible when i started:
-^ 1. running ml models in node instead of browser
-^ 2. run ml models in node on a rpi
- so i wanted to tackle those first before i invested time in making a wearable.
+^ they gave me ideas on how i could integrate ml into a this new wearable project
 
 ---
 
@@ -254,7 +246,12 @@ first is coding train
 
 ^ it's mostly geared towards the browser
 
-^ there are other libraries but this is well-supported with many pre-trained models and info on the internet.
+^ There were 2 things i wasn't sure if they were even possible when i started:
+
+^ 1. running ml models in node instead of browser
+
+^ 2. run ml models in node on a rpi
+ so i wanted to tackle those first before i invested time in making a wearable.
 
 ---
 
@@ -280,9 +277,9 @@ first is coding train
 - Modify `import`/`export` statements
 - Load image file vs. `MediaDevices.getUserMedia()`
 
-^ lots of minor code changes to do to run browser based models in node instead. 
+^ lots of minor code changes to do to run browser based models in node instead.
 
-^ warning that i'm not going to show a bunch of code during this talk since this code is v specific to my project. i will share links to repos i used, hand wavey discussion of the code of what i did at each step in general terms.
+^ warning that i'm not going to show a bunch of code during this talk since this code is v specific to my project.
 
 ---
 
@@ -290,7 +287,6 @@ first is coding train
 
 1. ~~Get image recognition ML model running on Node.js~~
 2. **Run TensorFlow.js on Raspberry Pi!**
-<br/>
 <br/>
 <br/>
 <br/>
@@ -325,26 +321,6 @@ If it ain't broke, don't fix it?
 
 ---
 
-# Autonomous Necklace Recipe
-
-1. ~~Get image recognition ML model running on Node.js~~
-2. ~~Run TensorFlow.js on Raspberry Pi!~~
-3. **Send camera pic to image recognition model on Raspberry Pi**
-<br/>
-<br/>
-<br/>
-
----
-
-# [fit] Send camera pic to image recognition model on Raspberry Pi
-
-- Hookup PiCamera 
-- Use `node-canvas` & create a canvas for the pic
-- Crop image to match what model expecting (416 x 416)
-- Turn into a tensor & send to the model!
-
----
-
 ![left fill](photos/camera-working-1.png)
 
 ![right fill](photos/camera-working-2.png)
@@ -355,7 +331,6 @@ If it ain't broke, don't fix it?
 
 1. ~~Get image recognition ML model running on Node.js~~
 2. ~~Run TensorFlow.js on Raspberry Pi!~~
-3. ~~Send camera pic to image recognition model on Raspberry Pi~~
 4. **Create a LED necklace**
 <br/>
 <br/>
@@ -396,21 +371,22 @@ If it ain't broke, don't fix it?
 
 1. ~~Get image recognition ML model running on Node.js~~
 2. ~~Run TensorFlow.js on Raspberry Pi!~~
-3. ~~Send camera pic to image recognition model on Raspberry Pi~~
 4. ~~Create a LED necklace~~
-5. **Send image data from the Raspberry Pi to the necklace**
+5. **Send image data from the Raspberry Pi to the arduino**
 
 ---
 
-# [fit] Physically connect the 
-# [fit] Raspberry Pi to the necklace
+# [fit] Communication between the 
+# [fit] Raspberry Pi and the arduino
 
 ---
 
 ![fit](photos/rpi-pinouts.png)
 
 ^ Useful for low level communication
+
 ^ One for sending, one for receiving
+
 ^ Send data from Pi to data pin on Arduino
 
 ---
@@ -419,8 +395,8 @@ If it ain't broke, don't fix it?
 ![left fit](photos/rpi-loopback.jpg)
 
 ^ i had a lot of trouble with this!
+
 ^ loopback
-^ i couldn't event get a loopback to work.
 
 ---
 
@@ -431,6 +407,7 @@ If it ain't broke, don't fix it?
 ![](photos/serial-instructions.gif)
 
 ^ updating pi config files
+
 ^ disable some config settings on boot
 
 ---
@@ -444,10 +421,11 @@ If it ain't broke, don't fix it?
 
 ![left fill autoplay loop](photos/teensy-power-issues.mov)
 
-^ long wires
-^ 5V possible, but with a bit of modification
 ^ Outside my abilities at the time
+
 ^ So switched boards instead
+
+^ FIX THIS!!!
 
 ---
 
@@ -455,8 +433,11 @@ If it ain't broke, don't fix it?
 ![](photos/metro-mini.jpg)
 
 ^ Teensy 3.3V, 5V tolerant
+
 ^ Metro Mini 5V output
+
 ^ Blinkytiles need 5V
+
 ^ I had one lying around
 
 ---
@@ -489,7 +470,6 @@ If it ain't broke, don't fix it?
 
 1. ~~Get image recognition ML model running on Node.js~~
 2. ~~Run TensorFlow.js on Raspberry Pi!~~
-3. ~~Send camera pic to image recognition model on Raspberry Pi~~
 4. ~~Create a LED necklace~~
 5. **Send image data from the Raspberry Pi to the necklace**
 
@@ -527,7 +507,7 @@ If it ain't broke, don't fix it?
 
 ![fit](photos/mem-issues-2.png)
 
-^ Lights would pause while processing the JSON received
+^ Lights would pause while processing the JSON received bc arduino is single threaded and very limited resources
 
 ^ Oops, that didn't work so well
 
@@ -543,23 +523,10 @@ If it ain't broke, don't fix it?
 
 ---
 
-![](photos/arduino-commits.png)
-
-^ took big gaps of time between working on the project
-
-^ actually started writing the C++ for the light programs at end of June
-
----
-
-![fit](photos/workonwearables.png)
-
----
-
 # Autonomous Necklace Recipe
 
 1. ~~Get image recognition ML model running on Node.js~~
 2. ~~Run TensorFlow.js on Raspberry Pi!~~
-3. ~~Send camera pic to image recognition model on Raspberry Pi~~
 4. ~~Create a LED necklace~~
 5. ~~Send image data from the Raspberry Pi to the necklace~~
 6. **Program the lights to change based on # of people around**
@@ -575,7 +542,6 @@ If it ain't broke, don't fix it?
 
 ![fit](photos/change-program.png)
 
-^ setup and loop
 ^ get a message, get peopleCount, update program
 
 ---
@@ -610,12 +576,17 @@ If it ain't broke, don't fix it?
 ![fit](photos/button-program.png)
 
 ^ I decided to add one more feature I hadn't planned for
+
 ^ a way to turn off the lights completely
-^ ability to flip how the necklace responds
 
 ---
 
 ![fit](photos/button-program.png)
+
+
+^ experiment with ability to flip how the necklace responds
+
+^ so it would be calm with no one around and chaotic with many people around
 
 ---
 
@@ -647,5 +618,6 @@ If it ain't broke, don't fix it?
 fashion  |  **vivienne westwood**  |  ootds
 
 **bojack**  |  dogs
+
 
 ^ i love to talk about non-tech things, so I thought i'd include some convos starters if you see me around please chat!
