@@ -16,11 +16,12 @@ footer: @stephaniecodes
 
 ---
 
-# I built an autonomous necklace
+## Disclaimer: 
+## This is a tech talk about my necklace
 
 ![left fill autoplay loop](photos/ml-necklace.mov)
 
-^ We are at a tech conf, and I'm to spend the next 30 minutes talking about my necklace
+^ I'm to spend the next 30 minutes talking about my necklace
 
 ---
 
@@ -37,9 +38,6 @@ footer: @stephaniecodes
 | - LEDs
 | - Battery
 
-^ How is it responding?
-
-^ Well, as you can see in these lists, I've utilized a lot of different tech to make this work.
 
 ^ Camera is taking a picture every couple seconds
 
@@ -65,7 +63,7 @@ web developer, [@MicrosoftToDo](https://www.twitter.com/microsofttodo)
 
 | Likes: | Dislikes: |
 | :--- | :--- |
-| - Fashion | - **Attention in public** |
+| - Fashion | - **Drawing attention** |
 | - LEDs 
 | - Tech things
 
