@@ -22,12 +22,6 @@ footer: @stephaniecodes
 
 ^ We are at a tech conf, and I'm to spend the next 30 minutes talking about my necklace
 
-^ I still can't believe i built this thing and it works and looks cool.
-
-^ So what is special about this necklace?
-
-^ It's is responding to the number of people around me and adjusting its lighting to correspond with that. It may not be adjusting the way that you would expect, but I'll get to that in a bit.
-
 ---
 
 # [fit] Loaded with tech
@@ -35,7 +29,7 @@ footer: @stephaniecodes
 ![left fit](photos/necklace-schema.jpg)
 
 
-| Hardware | Software |
+| Hardware: | Software: |
 | :--- | :--- |
 | - Raspberry Pi | - NodeJS |
 | - Arduino | - Tensorflow.js|
@@ -47,24 +41,17 @@ footer: @stephaniecodes
 
 ^ Well, as you can see in these lists, I've utilized a lot of different tech to make this work.
 
-^ Hopefully, it is a surprise to see all this stuff listed since I hope that I have concealed all the bulky items that allow it to run well!
+^ Camera is taking a picture every couple seconds.
+^ Camera is attached to rpi.
+^ RPI is running NodeJS & tensorflowjs and an image recognition model that determines what it sees in the picture
 
-^ I have 2 main pieces of hardware communicating together (rpi & arduino)
+^ After the ML model on the pi determines how many people it sees, it sends this info to an arduino.
 
-^ I have a camera attached to a rpi.
+^ The arduino is controlling the lights on the necklace.
 
-^ Multiple pieces of software - node and tensorflowjs are running a machine learning model on the pi that is tucked away on my midsection. This model is receiving the picture taken by the camera and running an image recognition model to identify what it sees.
-
-^ After the ML model on the pi determines how many people it sees, it sends this info to the arduino.
-
-^ I have the arduino running c++ code which then receives this info about it's surroundings and updates the colors and patterns of leds on the necklace based on parameters i've set for how it should respond.
-
-^ maybe you are curious what kind of person might make such a thing?
-
-^ maybe an extraverted person that loves attention? sorry no
+^ it updates the colors and patterns of leds based on parameters i've set for how it should respond.
 
 ---
-
 
 # Stephanie Nemeth
 
@@ -74,10 +61,10 @@ web developer, [@MicrosoftToDo](https://www.twitter.com/microsofttodo)
 
 <br>
 
-| Likes | Dislikes |
+| Likes: | Dislikes: |
 | :--- | :--- |
-| - Fashion | - Being in crowds  |
-| - LEDs | - Drawing attention
+| - Fashion | - **Attention in public** |
+| - LEDs 
 | - Tech things
 
 ----
@@ -85,8 +72,7 @@ web developer, [@MicrosoftToDo](https://www.twitter.com/microsofttodo)
 ### [fit] I'm *fascinated* with making myself 
 ### [fit] uncomfortable in public
 
-^ I'm a bit introverted, awkward & anxious in social situations.
-^ It's usually a guarantee that i'm uncomfortable in social settings.
+^ It's usually a guarantee that i'm uncomfortable in social settings. i feel awkward and introverted all the time.
 
 ---
 
@@ -94,22 +80,14 @@ web developer, [@MicrosoftToDo](https://www.twitter.com/microsofttodo)
 # [fit] to be *around people* in order to
 # [fit] *not* DRAW ATTENTION
 
-^ It's terrifying & counterinituitive but
-^ EXPLAIN THIS SLIDE BETTER
-
+^ I wanted to create a necklace that would be reasonably obnoxious and flashy and attention getting when i was off by myself and would only calm down and turn off when i forced myself to be sociable and surround myself with other people.
 
 ---
 
-# [fit] I've been evolving my exploration of this 
-# [fit]topic without even realizing it
+# [fit] I've been exploring socially awkward 
+# [fit] wearables since I started building things
 
-^ I've been exploring this topic in increasingly complex projects over the past couple years without even realizing it.
-
-^ Increasingly curious of:
-
-^ How people react in general
-
-^ How I react to people reacting
+^ I've been exploring making myself uncomfortable in public with wearables over he past couple years without really realizing it.
 
 ---
 
@@ -128,33 +106,19 @@ web developer, [@MicrosoftToDo](https://www.twitter.com/microsofttodo)
 
 ^ saw someone's work in a instructables tutorial and copied it exactly.
 
-^ fiber optic whip kit
-
-^ base is a flashlight with programmed programs
-
-^ stitched to white dress sewn by my mom.
-^ No coding, pre-programmed
-^ No soldering, only sewing
+^ bought a kit with preset light programs
+^ sewed to a dress
 
 ---
 
 ![fill left](photos/bike-ride.jpg)
 
-## [fit] First time wearing lights 
-## [fit] & people liked it!
+## [fit] It was weird for me
+## [fit] but people liked it
 
 ^ I felt awkward, but got lots of compliments.
 
 ^ Self-esteem boost.
-
----
-
-![fill left](photos/bike-ride.jpg)
-
-## [fit] A Bit Lifeless
-
-^ ~6 months coding experience
-^ Next logical step was to actually code something
 
 ---
 
@@ -164,31 +128,26 @@ web developer, [@MicrosoftToDo](https://www.twitter.com/microsofttodo)
 
 <br>
 
-^ last year i made this project
-^ Multiple coordinated pieces
-^ lights controlled over wifi with a web app
+^ Gave talks about this project last year, check out link
+^ I built an app to control the lights
 ^ Anyone on the web could control the lights
 ^ Lots of coding:
 ^React, NodeJS, MQTT, Arduino
 ^ Lots of soldering
-^ Gave talks about this project last year, check out link
 
----
-
-![fill left](photos/haute-codeture-2.jpg)
-
-## *Limitations:*
-## Dependent on wifi and an app
-
-^ thing that made it possible was also my least fav thing about it
-^ Stuck with keeping my phone on me, having a network connection
+^ growing Increasingly curious of:
+^ How people react in general
+^ How I react to people reacting
 
 ---
 
 ![50% autoplay loop right](photos/haute-app.mov)
 
-## People *really* liked controlling how I looked.
+## [fit] a web app for your outfit is
+## [fit] both good and bad
 
+^ i didn't like being dependent on wifi/network connection
+^ Stuck with keeping my phone on me, having a network connection
 ^ Realized I was doing it more to please and surprise people which is OK but less of the direction i was interested in.
 
 ^ Wanted to take away the need direct interaction. 
@@ -199,13 +158,11 @@ web developer, [@MicrosoftToDo](https://www.twitter.com/microsofttodo)
 
 ### [tiny.cc/speech-to-image](http://tiny.cc/speech-to-image)
 
-^ next project I did, i also did last year.
-^ I have a raspberry pi with a touchscreen plugged and a microphone. 
-^ The, I have it running a
-^ NodeJS server with
-^ Google cloud speech recognition API
-^ Google Custom Search API
-^ that is sending what i say to the google speech recognition api and then performing a custom image search of key words it picks out from what i'm saying and then shows an image to correlate.
+^ this is the last project i did.
+^ I have a raspberry pi with a touchscreen plugged and a microphone.
+^ The, I have a
+^ NodeJS server running
+^ that is sending what i say to the google speech recognition api and then sending a request to the google custom search api from what i'm saying and then shows an image to correlate.
 ^ No soldering
 ^ Responsive to the environment
 ^ still needed wifi
@@ -222,13 +179,11 @@ web developer, [@MicrosoftToDo](https://www.twitter.com/microsofttodo)
 
 ### (I just thought I was using an API)
 
-^ Ironically I also didn't realize I had really worked with ML before this current project until I really looked back and thought about this project.
+^ Ironically I also didn't realize I had worked with ML in this project until I really looked back and thought about this project again.
 
-^ ML is so ubiquitous/pervasive, I used it in this project and didn't really understand that I was using it.
+^ ML is so ubiquitous/pervasive, I used it here  and didn't really understand that I was using it.
 
 ^ I was just using an API that I sent data to and got a response.
-
-^ I wasn't particularly excited about ML at the time tbh nor thought it was "my thing"
 
 ---
 
@@ -238,83 +193,37 @@ web developer, [@MicrosoftToDo](https://www.twitter.com/microsofttodo)
 
 ^ so that's the projects that have been leading up to this one and and how i have progressed in my work with wearables.
 
-^ honestly i didn't quite realize how my all work has built upon the topic of attracting human attention and observing how others and myself deal with that attention until I started writing this talk.
+^ I've kind of misled you though. Though this progression of my work is a convincing reason for me to build this necklace, 
 
-^ I've kind of misled you though. Though this progression of my work is a convincing reason for me to build this project, 
-
-^ There is a definite moment when I decided to build it.
+^ There is a defining moment when I decided to build it.
 
 ---
 
-### I couldn't keep up with a machine learning study group at work.
+### I couldn't keep up with a machine learning study group at work
 
-^But the real reason i built this is because I couldn't keep up with a machine learning study group at work that was doing a big MOOC course.
+^But the real reason i built this is because I couldn't keep up with a machine learning study group at work.
 
+^ i had just started a new job at mega tech corp and felt really insecure with my skills.
 ^ Everyone else learning fast
 ^ All theoretical, no practical/tangible
 ^ i was falling behind from the first study group and was beating myself up about it.
-^ i had just started a new job at mega tech corp and felt really insecure (still do, that doesn't change unfortunately).
 ^ i wanted to prove myself & validate my learning style
+
+^ so i found other ways to learn and decided to create a physical use case for ML that was relevant to me and my interests
 
 ---
 
 ![autoplay loop](photos/coding-train.mp4)
 
-^ NOTES
+^ i used 2 resources to start exploring ML:
+first is coding train
 
 ---
 
 ![autoplay loop](photos/ml4a.mp4)
 
-^ NOTES
-
----
-
-
-## It was hard and
-## I got demotivated
-
-^ Build time: 3 months into 8+ months
-
----
-
-## I still know very little 
-## about machine learning
-
-^ I know the minimum to setup a trained model and run my data through it.
-
-^ I envisioned by this time this year i'd be doing other weird things with deep learning and training models and generating weird art but I haven't gotten to it yet.
-
----
-
-## [fit] But I'm good at figuring out
-## things I don't understand
-
-^ demotivated alot of this year
-^ easy to hyperfocus and tweak one bit
-^ but i persevered and took breaks when i needed them but still put in the work.
-
----
-
-<!-- [.build-lists: true]
-
-# Autonomous Necklace Recipe
-
-1. Get image recognition ML model running on **Node.js**
-2. Run TensorFlow.js on **Raspberry Pi!**
-3. Send camera pic to image recognition model on Raspberry Pi
-4. Create a LED necklace
-5. Send image data from the Raspberry Pi to the necklace
-6. Make the necklace responsive to data
-
---- -->
- 
-##  Yay! Javascript!
-
-^ There were 2 things i wasn't sure if they were even possible when i started:
-^ 1. running ml models in node instead of browser
-^ 2. run ml models in node on a rpi
- so i wanted to tackle those first before i invested time in making a wearable.
+^ second is the ML 4 artist courses by gene kogan
+^ i was super inspired by all the experiments artists are doing around ml 
 
 ---
 
@@ -328,6 +237,11 @@ web developer, [@MicrosoftToDo](https://www.twitter.com/microsofttodo)
 <br/>
 
 ^ There were several steps i had to take to make this necklace.
+
+^ There were 2 things i wasn't sure if they were even possible when i started:
+^ 1. running ml models in node instead of browser
+^ 2. run ml models in node on a rpi
+ so i wanted to tackle those first before i invested time in making a wearable.
 
 ---
 
@@ -707,7 +621,8 @@ If it ain't broke, don't fix it?
 
 ![fit](photos/blubbering.png)
 
-^ lots of bugs along the way
+^ it was hard and i got demotivated
+^ 8mos vs. 3mos
 ^ always stuff i could have done differently
 
 ---
