@@ -23,6 +23,8 @@ footer: @stephaniecodes
 
 ^ I'm to spend the next 30 minutes talking about my necklace
 
+^ Cuz it's actually responding people around me and using a lot of tech to do it.
+
 ---
 
 # [fit] Loaded with tech
@@ -72,22 +74,11 @@ web developer, [@MicrosoftToDo](https://www.twitter.com/microsofttodo)
 ### [fit] I'm *fascinated* with making myself 
 ### [fit] uncomfortable in public
 
-^ It's usually a guarantee that i'm uncomfortable in social settings. i feel awkward and introverted all the time.
+^ I started making lighted wearables a couple years ago because I thought lighted clothing was quite beautiful. but it's also a bit of burden for me.
 
----
+^ I enjoy their beauty but I despise the attention they draw to me.
 
-# [fit] A wearable that forces me 
-# [fit] to be *around people* in order to
-# [fit] *not* DRAW ATTENTION
-
-^ I wanted to create a necklace that would be reasonably obnoxious and flashy and attention getting when i was off by myself and would only calm down and turn off when i forced myself to be sociable and surround myself with other people.
-
----
-
-# [fit] I've been exploring socially awkward 
-# [fit] wearables since I started building things
-
-^ I've been exploring making myself uncomfortable in public with wearables over he past couple years without really realizing it.
+^ I've tried to cultivate that anxiety into a fascination & excitement and use them to confront my discomfort of the attention they attract.
 
 ---
 
@@ -128,7 +119,7 @@ web developer, [@MicrosoftToDo](https://www.twitter.com/microsofttodo)
 
 <br>
 
-^ in this project i wanted the lights to be able to be changed by other people.
+^ in this project i wanted to explore reactions when people realize the lights can be change with a web app.
 
 ^ Gave talks about this project last year, check out link
 
@@ -151,7 +142,7 @@ web developer, [@MicrosoftToDo](https://www.twitter.com/microsofttodo)
 
 ^ Realized I was doing it more to please and focus on other people which is OK but less of the direction i was interested in.
 
-^ Wanted to take away the need direct interaction of others, more focused on me and what i was experiencing. 
+^ Wanted to take away the need direct interaction of others, more focused on me and what i was experiencing.
 
 ---
 
@@ -183,6 +174,8 @@ web developer, [@MicrosoftToDo](https://www.twitter.com/microsofttodo)
 
 ### (I just thought I was using an API)
 
+^ Since i'm going to talk about ML and how i used it in my current project, i just want to point out that
+
 ^ Ironically I also didn't realize I had worked with ML in this project until I really looked back and thought about this project again.
 
 ^ ML is so ubiquitous/pervasive, I used it here  and didn't really understand that I was using it.
@@ -191,9 +184,19 @@ web developer, [@MicrosoftToDo](https://www.twitter.com/microsofttodo)
 
 ---
 
-# Making An Autonomous necklace
-
 ![left autoplay loop fill](photos/ml-necklace.mov)
+
+# [fit] A wearable that forces me 
+# [fit] to be *around people* in order to
+# [fit] *not* DRAW ATTENTION
+
+^ I wanted to create a necklace that would be reasonably obnoxious and flashy and attention getting when i was off by myself and would only calm down and turn off when i forced myself to be sociable and surround myself with other people.
+
+^ no app, no direct input through an app
+
+^ just it sensing how many people are around me and responding accordingly to conditions i've setup.
+
+^ It's less about attracting people with the lights and more about me wanting to get rid of the lights as fast as possible so i can stop drawing attention to myself.
 
 ^ I've kind of misled you though. Though this progression of my work is a convincing reason for me to build this necklace, 
 
@@ -201,11 +204,13 @@ web developer, [@MicrosoftToDo](https://www.twitter.com/microsofttodo)
 
 ---
 
-### I couldn't keep up with a machine learning study group at work
+### shiny New Job at mega tech company
 
-^But the real reason i built this is because I couldn't keep up with a machine learning study group at work.
+^ Almost a year ago, i had just started a new job at a big tech co
 
-^ i had just started a new job at a big tech co and felt really insecure with my skills.
+^ felt really insecure with my skills
+
+^ here's everyone with their computer science degrees and then there's me.
 
 ^ Everyone else learning fast
 
@@ -216,6 +221,8 @@ web developer, [@MicrosoftToDo](https://www.twitter.com/microsofttodo)
 ^ All theoretical, no practical/tangible
 
 ^ so i found other ways to learn and decided to create a physical use case for ML that was relevant to me and my interests
+
+^ So the real reason i built this is because I couldn't keep up with a machine learning study group at work.
 
 ---
 
