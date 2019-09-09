@@ -369,8 +369,8 @@ If it ain't broke, don't fix it?
 
 1. ~~Get image recognition ML model running on Node.js~~
 2. ~~Run TensorFlow.js on Raspberry Pi!~~
-4. ~~Create a LED necklace~~
-5. **Send image data from the Raspberry Pi to the arduino**
+3. ~~Create a LED necklace~~
+4. **Send image data from the Raspberry Pi to the lights**
 
 ---
 
@@ -469,7 +469,7 @@ If it ain't broke, don't fix it?
 1. ~~Get image recognition ML model running on Node.js~~
 2. ~~Run TensorFlow.js on Raspberry Pi!~~
 4. ~~Create a LED necklace~~
-5. **Send image data from the Raspberry Pi to the necklace**
+5. **Send image data from the Raspberry Pi to the lights**
 
 ---
 
@@ -526,7 +526,7 @@ If it ain't broke, don't fix it?
 1. ~~Get image recognition ML model running on Node.js~~
 2. ~~Run TensorFlow.js on Raspberry Pi!~~
 4. ~~Create a LED necklace~~
-5. ~~Send image data from the Raspberry Pi to the necklace~~
+5. ~~Send image data from the Raspberry Pi to the lights~~
 6. **Program the lights to change based on # of people around**
 
 ---
@@ -605,8 +605,6 @@ If it ain't broke, don't fix it?
 
 --- -->
 # Thanks!
-
-![fit left](photos/steph.jpg)
 
 [stephanie.lol](https://stephanie.lol)
 
