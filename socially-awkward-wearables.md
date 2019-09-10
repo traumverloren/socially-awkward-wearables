@@ -21,7 +21,7 @@ footer: @stephaniecodes
 
 ![left fill autoplay loop](photos/ml-necklace.mov)
 
-^ I'm to spend the next 30 minutes talking about my necklace
+^ next 30 minutes
 
 ^ Cuz it's actually responding people around me and using a lot of tech to do it.
 
@@ -41,11 +41,11 @@ footer: @stephaniecodes
 | - Battery
 
 
-^ Camera is taking a picture every couple seconds
+^ Camera is taking a picture
 
 ^ Camera is attached to rpi
 
-^ RPI is running NodeJS & tensorflowjs and an image recognition model that determines what it sees in the picture
+^ RPI is running NodeJS, tensorflowjs, image recognition model
 
 ^ After the ML model on the pi determines how many people it sees, it sends this info to an arduino.
 
@@ -65,20 +65,33 @@ web developer, [@MicrosoftToDo](https://www.twitter.com/microsofttodo)
 
 | Likes: | Dislikes: |
 | :--- | :--- |
-| - Fashion | - **Drawing attention** |
+| - Fashion | - **Attention in Public** |
 | - LEDs 
 | - Tech things
 
-----
+
+^ web dev
+
+^ live in Berlin
+
+^ emphasize dislike drawing attn to myself
+
+---
 
 ### [fit] I'm *fascinated* with making myself 
 ### [fit] uncomfortable in public
 
-^ I started making lighted wearables a couple years ago because I thought lighted clothing was quite beautiful. but it's also a bit of burden for me.
+^ started making lighted clothing
 
-^ I enjoy their beauty but I despise the attention they draw to me.
+^ because I thought lighted clothing was quite beautiful.
 
-^ I've tried to cultivate that anxiety into a fascination & excitement and use them to confront my discomfort of the attention they attract.
+^ Burden for me.
+
+^ love them but hard to deal w/ the attention they draw
+
+^ try o channel that anxiety into a fascination & excitement
+
+^ use them to confront my discomfort of the attention they attract.
 
 ---
 
