@@ -212,17 +212,17 @@ web developer, [@MicrosoftToDo](https://www.twitter.com/microsofttodo)
 
 ^ here's everyone with their computer science degrees and then there's me.
 
+^ folks started a ml study group.
+
 ^ Everyone else learning fast
 
-^ i was falling behind from the first study group and was beating myself up about it.
+^ but i was falling behind from the first study group and was beating myself up about it.
 
-^ i wanted to prove myself & validate my learning style
+^ i wanted to prove that i could learn all these concepts but in my own style.
 
-^ All theoretical, no practical/tangible
+^ so i found other ways some other courses and decided to create a physical use case for ML that was relevant to me and my interests
 
-^ so i found other ways to learn and decided to create a physical use case for ML that was relevant to me and my interests
-
-^ So the real reason i built this is because I couldn't keep up with a machine learning study group at work.
+^ So yeah the real reason i built this is because I couldn't keep up with a machine learning study group at work.
 
 ---
 
