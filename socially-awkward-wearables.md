@@ -83,7 +83,7 @@ web developer, [@MicrosoftToDo](https://www.twitter.com/microsofttodo)
 
 ^ started making lighted clothing
 
-^ because I thought lighted clothing was quite beautiful.
+^ though it beautiful.
 
 ^ Burden for me.
 
@@ -105,9 +105,9 @@ web developer, [@MicrosoftToDo](https://www.twitter.com/microsofttodo)
 
 <br>
 
+^ festival
 
-^ i was going to a festival
-^ saw someone's work in a instructables tutorial and copied it exactly.
+^ copied an instructables tutorial 
 
 ^ bought a kit with preset light programs
 
@@ -124,6 +124,8 @@ web developer, [@MicrosoftToDo](https://www.twitter.com/microsofttodo)
 
 ^ Self-esteem boost.
 
+^ wished it could be more alive and interactive
+
 ---
 
 ![fill autoplay loop](photos/intro-clip.mov)
@@ -132,13 +134,13 @@ web developer, [@MicrosoftToDo](https://www.twitter.com/microsofttodo)
 
 <br>
 
-^ in this project i wanted to explore reactions when people realize the lights can be change with a web app.
+^ explore reactions when people realize the lights can be change w/ a web app.
 
 ^ Gave talks about this project last year, check out link
 
-^ I built an app to control the lights
+^  app to control the lights
 
-^ Anyone on the web could control the lights
+^ Anyone on the web could change colors and patterns
 
 ^ Lots of coding: React, NodeJS, MQTT, Arduino
 
@@ -151,11 +153,15 @@ web developer, [@MicrosoftToDo](https://www.twitter.com/microsofttodo)
 ## [fit] a web app for your outfit is
 ## [fit] both good and bad
 
-^ i didn't like being Stuck with keeping my phone on me, to have a network connection
+^ Stuck having to have phone, to have an internet connection
 
-^ Realized I was doing it more to please and focus on other people which is OK but less of the direction i was interested in.
+^ In this project i purposefully wanted to explore creating a temporary experience that connected viewer directly to the artwork for a brief moment.
 
-^ Wanted to take away the need direct interaction of others, more focused on me and what i was experiencing.
+^ Doing it more to please & other people which is OK but less of the direction i was interested in.
+
+^ Wanted to take away the need direct interaction of others
+
+^ More focused on me and what i was experiencing.
 
 ---
 
@@ -165,11 +171,15 @@ web developer, [@MicrosoftToDo](https://www.twitter.com/microsofttodo)
 
 ^ this is the last project i did.
 
-^ i wanted to make a necklace that would show accompanying images as i was speaking to someone so they would find me interesting and what to engage in conversation with me.
+^ make a necklace that would show accompanying images as i was speaking to someone 
+
+^ so they would find me interesting 
+
+^ & engage in conversation with me.
 
 ^ I have a raspberry pi with a touchscreen and a microphone.
 
-^ NodeJS server runningthat is sending audio to the google speech recognition api and then sending those keywords to the google search api from and finally is showing an image that correlates to what i'm saying.
+^ NodeJS server send audio to the google speech recognition api and then sending those keywords to the google search api from and finally is showing an image that correlates to what i'm saying.
 
 ^ Responsive to the environment
 
@@ -203,17 +213,25 @@ web developer, [@MicrosoftToDo](https://www.twitter.com/microsofttodo)
 # [fit] to be *around people* in order to
 # [fit] *not* DRAW ATTENTION
 
-^ I wanted to create a necklace that would be reasonably obnoxious and flashy and attention getting when i was off by myself and would only calm down and turn off when i forced myself to be sociable and surround myself with other people.
+^ obnoxious, flashy, attention getting when i was keeping to myself
+
+^  only calm down & turn off when i forced myself to be sociable & surround myself with other people.
 
 ^ no app, no direct input through an app
 
 ^ just it sensing how many people are around me and responding accordingly to conditions i've setup.
 
-^ It's less about attracting people with the lights and more about me wanting to get rid of the lights as fast as possible so i can stop drawing attention to myself.
+^ less about purposefully using lights to attract people
 
-^ I've kind of misled you though. Though this progression of my work is a convincing reason for me to build this necklace, 
+^ more about me wanting to get rid of the lights as fast as possible
 
-^ There was really a defining moment when I decided to build it.
+^ so i can stop drawing attention to myself.
+
+^ misled you
+
+^ progression of my work is a convincing reason for me to build this necklace
+
+^ really a defining moment when I decided
 
 ---
 
@@ -225,17 +243,17 @@ web developer, [@MicrosoftToDo](https://www.twitter.com/microsofttodo)
 
 ^ here's everyone with their computer science degrees and then there's me.
 
-^ folks started a ml study group.
+^ folks started a ml study group
 
 ^ Everyone else learning fast
 
-^ but i was falling behind from the first study group and was beating myself up about it.
+^ falling behind from the first study group
 
-^ i wanted to prove that i could learn all these concepts but in my own style.
+^ i wanted to prove that i could learn all these concepts but do it in my own style.
 
 ^ so i found other ways some other courses and decided to create a physical use case for ML that was relevant to me and my interests
 
-^ So yeah the real reason i built this is because I couldn't keep up with a machine learning study group at work.
+^ the real reason i built this is because I couldn't keep up with a ML study group at work.
 
 ---
 
