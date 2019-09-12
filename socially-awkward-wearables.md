@@ -47,13 +47,16 @@ footer: @stephaniecodes
 
 ^ RPI is running NodeJS, tensorflowjs, image recognition model
 
-^ After the ML model on the pi determines how many people it sees, it sends this info to an arduino.
+^  ML model on the pi determines how many people it seesit
+
+^ sends info to an arduino.
 
 ^ The arduino is controlling the lights on the necklace.
 
 ^ it updates the colors and patterns of leds based on parameters i've set for how it should respond.
 
 ---
+#####<br>
 
 # Stephanie Nemeth
 
@@ -61,20 +64,9 @@ footer: @stephaniecodes
 
 web developer, [@MicrosoftToDo](https://www.twitter.com/microsofttodo)
 
-<br>
-
-| Likes: | Dislikes: |
-| :--- | :--- |
-| - Fashion | - **Attention in Public** |
-| - LEDs 
-| - Tech things
-
-
 ^ web dev
 
 ^ live in Berlin
-
-^ emphasize dislike drawing attn to myself
 
 ---
 
@@ -89,9 +81,10 @@ web developer, [@MicrosoftToDo](https://www.twitter.com/microsofttodo)
 
 ^ love them but hard to deal w/ the attention they draw
 
-^ try o channel that anxiety into a fascination & excitement
+^ try to channel that anxiety into a fascination & excitement
 
 ^ use them to confront my discomfort of the attention they attract.
+
 
 ---
 
@@ -105,9 +98,11 @@ web developer, [@MicrosoftToDo](https://www.twitter.com/microsofttodo)
 
 <br>
 
+^ the first project i ever made was...
+
 ^ festival
 
-^ copied an instructables tutorial 
+^ copied an instructables tutorial
 
 ^ bought a kit with preset light programs
 
@@ -134,6 +129,8 @@ web developer, [@MicrosoftToDo](https://www.twitter.com/microsofttodo)
 
 <br>
 
+^ next project
+
 ^ explore reactions when people realize the lights can be change w/ a web app.
 
 ^ Gave talks about this project last year, check out link
@@ -155,7 +152,7 @@ web developer, [@MicrosoftToDo](https://www.twitter.com/microsofttodo)
 
 ^ Stuck having to have phone, to have an internet connection
 
-^ In this project i purposefully wanted to explore creating a temporary experience that connected viewer directly to the artwork for a brief moment.
+^ purposefully wanted to explore creating a temporary experience that connected viewer directly to the artwork for a brief moment.
 
 ^ Doing it more to please & other people which is OK but less of the direction i was interested in.
 
@@ -169,11 +166,11 @@ web developer, [@MicrosoftToDo](https://www.twitter.com/microsofttodo)
 
 ### [tiny.cc/speech-to-image](http://tiny.cc/speech-to-image)
 
-^ this is the last project i did.
+^ my last project
 
-^ make a necklace that would show accompanying images as i was speaking to someone 
+^ make a necklace that would show accompanying images as i was speaking to someone
 
-^ so they would find me interesting 
+^ so they would find me interesting
 
 ^ & engage in conversation with me.
 
@@ -197,11 +194,11 @@ web developer, [@MicrosoftToDo](https://www.twitter.com/microsofttodo)
 
 ### (I just thought I was using an API)
 
-^ Since i'm going to talk about ML and how i used it in my current project, i just want to point out that
+^ going to talk about ML & how i used it in my current project, point out that
 
 ^ Ironically I also didn't realize I had worked with ML in this project until I really looked back and thought about this project again.
 
-^ ML is so ubiquitous/pervasive, I used it here  and didn't really understand that I was using it.
+^ ML is so pervasive, I used it here  and didn't really understand that I was using it.
 
 ^ I was just using an API that I sent data to and got a response.
 
@@ -213,13 +210,18 @@ web developer, [@MicrosoftToDo](https://www.twitter.com/microsofttodo)
 # [fit] to be *around people* in order to
 # [fit] *not* DRAW ATTENTION
 
+
+^ take the things i liked about other projects & go in diff direction
+
+^ responsive to people around me but in a way that increases my discomfort unless i conform to social norms
+
 ^ obnoxious, flashy, attention getting when i was keeping to myself
 
 ^  only calm down & turn off when i forced myself to be sociable & surround myself with other people.
 
-^ no app, no direct input through an app
+^ no app
 
-^ just it sensing how many people are around me and responding accordingly to conditions i've setup.
+^ sense how many people are around me & respond accordingly to params i've set.
 
 ^ less about purposefully using lights to attract people
 
@@ -227,9 +229,9 @@ web developer, [@MicrosoftToDo](https://www.twitter.com/microsofttodo)
 
 ^ so i can stop drawing attention to myself.
 
-^ misled you
+^ this progression of my work is a convincing reason for me to build this necklace
 
-^ progression of my work is a convincing reason for me to build this necklace
+^ misled you
 
 ^ really a defining moment when I decided
 
@@ -237,13 +239,15 @@ web developer, [@MicrosoftToDo](https://www.twitter.com/microsofttodo)
 
 ### shiny New Job at mega tech company
 
-^ Almost a year ago, i had just started a new job at a big tech co
+^ moment of self-doubt & inadequacy
+
+^ yr ago, new job at a big tech co
 
 ^ felt really insecure with my skills
 
-^ here's everyone with their computer science degrees and then there's me.
+^ CS degrees
 
-^ folks started a ml study group
+^ folks started a ML study group
 
 ^ Everyone else learning fast
 
@@ -251,25 +255,26 @@ web developer, [@MicrosoftToDo](https://www.twitter.com/microsofttodo)
 
 ^ i wanted to prove that i could learn all these concepts but do it in my own style.
 
-^ so i found other ways some other courses and decided to create a physical use case for ML that was relevant to me and my interests
+^ other ways 
+
+^ create a physical use case for ML that was relevant to me and my interests
 
 ^ the real reason i built this is because I couldn't keep up with a ML study group at work.
 
 ---
 
-![autoplay loop](photos/coding-train.mp4)
+![autoplay loop](photos/ml4a.mp4)
 
-^ i used 2 resources to start exploring ML:
-first is coding train
+^ the ML 4 artist courses by gene kogan
+^ open my eyes to what artists and non-traditional technologists doing
+
+^ they gave me ideas on how i could integrate ml into a this new wearable project
 
 ---
 
-![autoplay loop](photos/ml4a.mp4)
+![autoplay loop](photos/coding-train.mp4)
 
-^ second is the ML 4 artist courses by gene kogan
-^ i was super inspired by all the experiments artists are doing around ml
-
-^ they gave me ideas on how i could integrate ml into a this new wearable project
+^ coding train to learn tensorflow.js
 
 ---
 
@@ -280,15 +285,14 @@ first is coding train
 ^ Library for training & running machine learning models in the browser
 (or Node.js)
 
-^ it's mostly geared towards the browser
+^ browser
 
-^ There were 2 things i wasn't sure if they were even possible when i started:
+^ There were 2 things i wasn't sure from beginning if they were even possible:
 
 ^ 1. running ml models in node instead of browser
 
 ^ 2. run ml models in node on a rpi
- so i wanted to tackle those first before i invested time in making a wearable.
-
+ 
 ---
 
 ![left](photos/tiny-yolo-library.gif)
@@ -313,6 +317,13 @@ first is coding train
 - Modify `import`/`export` statements
 - Load image file vs. `MediaDevices.getUserMedia()`
 
+<br>
+
+// TODO !!!!
+
+[tiny.cc/yolo-pi](http://tiny.cc/yolo-pi
+
+
 ^ lots of minor code changes to do to run browser based models in node instead.
 
 ^ warning that i'm not going to show a bunch of code during this talk since this code is v specific to my project.
@@ -331,35 +342,35 @@ first is coding train
 
 ![fit](photos/tfjs-pr.png)
 
-^ i got really lucky that the tf.js team had just made a change for this, though it wasn't in released build yet (still in a branch they were working on)
+^ i got really lucky that the tf.js team had just made a change for this
+
+^ but released build yet
 
 ---
 
 ![fit](photos/tensorflow-github.png)
 
-^ i needed to use a package (yalc) to build it locally on my pi from their commit, but it worked!
+^ i needed to build it locally on my pi from their commit, but it worked, never did that, but it!
 
 ---
 
-# FYI: I'm running on Tensorflow.js 0.14.2
+# [fit] Disclaimer: I'm running on Tensorflow.js 0.14.2
 
 It is a bit hacky, but runs reliable & that's beautiful!
 
-<br/>
-
-If it ain't broke, don't fix it?
-
-^ I did this months ago and honestly don't wanna mess it up
+If it isn't broke, why fix it?
 
 ^ Latest tf.js release is 1.2.8
 
 ^ Also prepping rc 2.0
 
+^ I did this months ago and honestly don't wanna mess it up
+
 ---
 
-![left fill](photos/camera-working-1.png)
+<!-- ![left fill](photos/camera-working-1.png) -->
 
-![right fill](photos/camera-working-2.png)
+![fit](photos/camera-working-2.png)
 
 ---
 
@@ -385,9 +396,10 @@ If it ain't broke, don't fix it?
 
 ---
 
- Use the blinkytiles but control them with an arduino
+ Control blinkytiles with an arduino
 
 ![inline 80%](photos/blinkytiles-github.png)
+
 
 [https://github.com/jasoncoon/BlinkyTileFastLED](https://github.com/jasoncoon/BlinkyTileFastLED)
 
@@ -452,10 +464,12 @@ If it ain't broke, don't fix it?
 
 ---
 
-# [fit] Power issues on necklace
+# [fit] Issues on necklace
 
 
 ![left fill autoplay loop](photos/teensy-power-issues.mov)
+
+^ Power issues
 
 ^ Outside my abilities at the time
 
@@ -517,7 +531,6 @@ If it ain't broke, don't fix it?
 
 ---
 
-
 # [fit] ‍I use json everywhere else,
 # [fit] I'll use JSON here
 
@@ -543,16 +556,16 @@ If it ain't broke, don't fix it?
 
 ![fit](photos/mem-issues-2.png)
 
-^ Lights would pause while processing the JSON received bc arduino is single threaded and very limited resources
+^ Lights would pause while processing the JSON received
 
-^ Oops, that didn't work so well
+^ arduino is single threaded and very limited resources
 
 ---
 
 ![fit](photos/switched-to-bytes.png)
 
 
-^ this is code in the NodeJS App
+^ code from the NodeJS/rpi App
 ^ what info does the arduino really need
 ^ what can it be condensed down to
 ^ 60 & 62
@@ -591,6 +604,12 @@ If it ain't broke, don't fix it?
 
 ![fit](photos/test.png)
 
+^ more issues
+
+^ bad connections shorting
+
+^ bad fit
+
 ^ Don't wait to the end to actually wear it
 
 ---
@@ -613,6 +632,8 @@ If it ain't broke, don't fix it?
 
 ^ I decided to add one more feature I hadn't planned for
 
+^ button
+
 ^ a way to turn off the lights completely
 
 ---
@@ -634,14 +655,6 @@ If it ain't broke, don't fix it?
 
 ---
 
-<!-- ## Thank you
-
-![fit](photos/blubbering.png)
-
-^ lots of bugs along the way
-^ always stuff i could have done differently
-
---- -->
 # Thanks!
 
 [stephanie.lol](https://stephanie.lol)
