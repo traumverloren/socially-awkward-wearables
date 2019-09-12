@@ -319,9 +319,7 @@ web developer, [@MicrosoftToDo](https://www.twitter.com/microsofttodo)
 
 <br>
 
-// TODO !!!!
-
-[tiny.cc/yolo-pi](http://tiny.cc/yolo-pi
+[tiny.cc/yolo-pi](http://tiny.cc/yolo-pi)
 
 
 ^ lots of minor code changes to do to run browser based models in node instead.
