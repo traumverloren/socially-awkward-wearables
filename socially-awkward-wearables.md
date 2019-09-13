@@ -23,7 +23,7 @@ footer: @stephaniecodes
 
 ^ next 30 minutes
 
-^ Cuz it's actually responding people around me and using a lot of tech to do it.
+^ using a lot of tech to responding people around me.
 
 ---
 
@@ -47,7 +47,7 @@ footer: @stephaniecodes
 
 ^ RPI is running NodeJS, tensorflowjs, image recognition model
 
-^  ML model on the pi determines how many people it seesit
+^  ML model on the pi determines how many people it sees
 
 ^ sends info to an arduino.
 
@@ -75,7 +75,7 @@ web developer, [@MicrosoftToDo](https://www.twitter.com/microsofttodo)
 
 ^ started making lighted clothing
 
-^ though it beautiful.
+^ thought it beautiful.
 
 ^ Burden for me.
 
@@ -84,7 +84,6 @@ web developer, [@MicrosoftToDo](https://www.twitter.com/microsofttodo)
 ^ try to channel that anxiety into a fascination & excitement
 
 ^ use them to confront my discomfort of the attention they attract.
-
 
 ---
 
@@ -119,7 +118,7 @@ web developer, [@MicrosoftToDo](https://www.twitter.com/microsofttodo)
 
 ^ Self-esteem boost.
 
-^ wished it could be more alive and interactive
+^ wished it could be more alive & interactive
 
 ---
 
