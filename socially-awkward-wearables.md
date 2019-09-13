@@ -64,6 +64,11 @@ footer: @stephaniecodes
 
 web developer, [@MicrosoftToDo](https://www.twitter.com/microsofttodo)
 
+she/her
+
+✨
+
+
 ^ web dev
 
 ^ live in Berlin
@@ -72,6 +77,8 @@ web developer, [@MicrosoftToDo](https://www.twitter.com/microsofttodo)
 
 ### [fit] I'm *fascinated* with making myself 
 ### [fit] uncomfortable in public
+
+^ few yrs ago
 
 ^ started making lighted clothing
 
@@ -197,9 +204,11 @@ web developer, [@MicrosoftToDo](https://www.twitter.com/microsofttodo)
 
 ^ Ironically I also didn't realize I had worked with ML in this project until I really looked back and thought about this project again.
 
-^ ML is so pervasive, I used it here  and didn't really understand that I was using it.
+^ ML is so pervasive
 
-^ I was just using an API that I sent data to and got a response.
+^ used it here
+
+^  Just thought I using an API that I sent data to and got a response.
 
 ---
 
@@ -654,14 +663,12 @@ If it isn't broke, why fix it?
 
 # Thanks!
 
-[stephanie.lol](https://stephanie.lol)
-
 <!-- frontend  -  react  -  js  -  a11y -->
 
 ### ✨ Convo starters ✨
 fashion  |  **vivienne westwood**  |  ootds
 
-**bojack**  |  dogs
+**bojack**  |  dogs  |  **nail art**
 
 
 ^ i love to talk about non-tech things, so I thought i'd include some convos starters if you see me around please chat!
