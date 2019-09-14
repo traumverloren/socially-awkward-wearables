@@ -481,8 +481,6 @@ If it isn't broke, why fix it?
 
 ^ So switched boards instead
 
-^ FIX THIS!!!
-
 ---
 
 ![](photos/teensy.jpg)
@@ -663,12 +661,14 @@ If it isn't broke, why fix it?
 
 # Thanks!
 
-<!-- frontend  -  react  -  js  -  a11y -->
 
-### ✨ Convo starters ✨
-fashion  |  **vivienne westwood**  |  ootds
+- Tensorflowjs + tiny-yolo on a raspberry pi: 
+[tiny.cc/yolo-pi](http://tiny.cc/yolo-pi)
 
-**bojack**  |  dogs  |  **nail art**
+<br>
+
+- LED Necklace: 
+[tiny.cc/ml-necklace](http://tiny.cc/ml-necklace)
 
 
 ^ i love to talk about non-tech things, so I thought i'd include some convos starters if you see me around please chat!
