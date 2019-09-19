@@ -60,13 +60,12 @@ footer: @stephaniecodes
 
 # Stephanie Nemeth
 
-![fit left](photos/steph.jpg)
+![fit left](photos/IMG_2739.jpeg)
 
 web developer, [@MicrosoftToDo](https://www.twitter.com/microsofttodo)
 
 she/her
 
-✨
 
 
 ^ web dev
@@ -261,9 +260,7 @@ she/her
 
 ^ falling behind from the first study group
 
-^ i wanted to prove that i could learn all these concepts but do it in my own style.
-
-^ other ways 
+^ i wanted to prove that i could learn all these concepts in my own style.
 
 ^ create a physical use case for ML that was relevant to me and my interests
 
@@ -282,12 +279,6 @@ she/her
 
 ![autoplay loop](photos/coding-train.mp4)
 
-^ coding train to learn tensorflow.js
-
----
-
-## TensorFlow.js
-
 ^ i wanted to do all the machine learning in JS.
 
 ^ Library for training & running machine learning models in the browser
@@ -300,7 +291,7 @@ she/her
 ^ 1. running ml models in node instead of browser
 
 ^ 2. run ml models in node on a rpi
- 
+
 ---
 
 ![left](photos/tiny-yolo-library.gif)
@@ -376,9 +367,9 @@ If it isn't broke, why fix it?
 
 <!-- ![left fill](photos/camera-working-1.png) -->
 
-![fit](photos/camera-working-2.png)
+<!-- ![fit](photos/camera-working-2.png)
 
----
+--- -->
 
 # Autonomous Necklace Recipe
 
@@ -428,12 +419,14 @@ If it isn't broke, why fix it?
 3. ~~Create a LED necklace~~
 4. **Send image data from the Raspberry Pi to the lights**
 
----
-
-# [fit] Communication between the 
-# [fit] Raspberry Pi and the arduino
+^ Communication between the Raspberry Pi and the arduino
 
 ---
+
+<!-- # [fit] Communication between the 
+# [fit] Raspberry Pi and the arduino -->
+
+<!-- --- -->
 
 ![fit](photos/rpi-pinouts.png)
 
@@ -514,7 +507,7 @@ If it isn't broke, why fix it?
 # [fit] it was still running at startup 
 # [fit] & HAD A MEMORY LEAK 
 #<br>
-# 🤦‍
+# 🤦‍♀
 
 ![right fit autoplay loop](photos/IMG_6459.mp4)
 
@@ -524,8 +517,8 @@ If it isn't broke, why fix it?
 
 1. ~~Get image recognition ML model running on Node.js~~
 2. ~~Run TensorFlow.js on Raspberry Pi!~~
-4. ~~Create a LED necklace~~
-5. **Send image data from the Raspberry Pi to the lights**
+3. ~~Create a LED necklace~~
+4. **Send image data from the Raspberry Pi to the lights**
 
 ---
 
@@ -556,13 +549,13 @@ If it isn't broke, why fix it?
 
 # [fit] But this was a bad decision
 
----
-
 ![fit](photos/mem-issues-2.png)
 
 ^ Lights would pause while processing the JSON received
 
 ^ arduino is single threaded and very limited resources
+
+^ thought i was cleverful for using json
 
 ---
 
@@ -580,9 +573,9 @@ If it isn't broke, why fix it?
 
 1. ~~Get image recognition ML model running on Node.js~~
 2. ~~Run TensorFlow.js on Raspberry Pi!~~
-4. ~~Create a LED necklace~~
-5. ~~Send image data from the Raspberry Pi to the lights~~
-6. **Program the lights to change based on # of people around**
+3. ~~Create a LED necklace~~
+4. ~~Send image data from the Raspberry Pi to the lights~~
+5. **Program the lights to change based on # of people around**
 
 ---
 
@@ -593,7 +586,7 @@ If it isn't broke, why fix it?
 
 ---
 
-![fit](photos/change-program.png)
+![fit](photos/arduino-code.png)
 
 ^ get a message, get peopleCount, update program
 
@@ -602,7 +595,7 @@ If it isn't broke, why fix it?
 [tiny.cc/ml-necklace](http://tiny.cc/ml-necklace)
 
 
-![fit](photos/change-program.png)
+![fit](photos/arduino-code.png)
 
 ---
 
@@ -628,8 +621,10 @@ If it isn't broke, why fix it?
 
 ---
 
-# [fit] Sometimes, I've had enough
+### [fit] Sometimes, I've had enough
+
 ##<br>
+
 ## 😖 😩 😫
 
 ![fit](photos/button-program.png)
@@ -662,12 +657,12 @@ If it isn't broke, why fix it?
 # Thanks!
 
 
-- Tensorflowjs + tiny-yolo on a raspberry pi: 
+- Tensorflowjs + tiny-yolo + Raspberry Pi code:
 [tiny.cc/yolo-pi](http://tiny.cc/yolo-pi)
 
 <br>
 
-- LED Necklace: 
+- Arduino necklace code:
 [tiny.cc/ml-necklace](http://tiny.cc/ml-necklace)
 
 
