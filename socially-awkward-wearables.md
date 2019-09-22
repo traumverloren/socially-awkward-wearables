@@ -645,17 +645,16 @@ If it isn't broke, why fix it?
 ^ so it would be calm with no one around and chaotic with many people around
 
 ---
-
+<!-- 
 ![fit](photos/blubbering.png)
+
+--- -->
+
+# Thanks!
 
 ^ it was hard and i got demotivated
 ^ 8mos vs. 3mos
 ^ always stuff i could have done differently
-
----
-
-# Thanks!
-
 
 - Tensorflowjs + tiny-yolo + Raspberry Pi code:
 [tiny.cc/yolo-pi](http://tiny.cc/yolo-pi)
