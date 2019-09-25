@@ -16,7 +16,7 @@ footer: @stephaniecodes
 
 ---
 
-## Disclaimer: 
+## Disclaimer:
 ## This is a tech talk about my necklace
 
 ![left fill autoplay loop](photos/ml-necklace.mov)
@@ -74,7 +74,7 @@ she/her
 
 ---
 
-### [fit] I'm *fascinated* with making myself 
+### [fit] I'm *fascinated* with making myself
 ### [fit] uncomfortable in public
 
 ^ few yrs ago
@@ -134,8 +134,6 @@ she/her
 
 <br>
 
-^ next project
-
 ^ explore reactions when people realize the lights can be change w/ a web app.
 
 ^ Gave talks about this project last year, check out link
@@ -160,8 +158,6 @@ she/her
 ^ purposefully wanted to explore creating a temporary experience that connected viewer directly to the artwork for a brief moment.
 
 ^ Doing it more to please & other people which is OK but less of the direction i was interested in.
-
-^ Wanted to take away the need direct interaction of others
 
 ^ More focused on me and what i was experiencing.
 
@@ -191,8 +187,8 @@ she/her
 
 ![fit left autoplay loop](photos/IMG_6459.mp4)
 
-# [fit] I accidently made a thing 
-# [fit] with *machine learning* 
+# [fit] I accidently made a thing
+# [fit] with *machine learning*
 # [fit] and hadn't realize it.
 
 🤷‍
@@ -213,34 +209,26 @@ she/her
 
 ![left autoplay loop fill](photos/ml-necklace.mov)
 
-# [fit] A wearable that forces me 
+# [fit] A wearable that forces me
 # [fit] to be *around people* in order to
 # [fit] *not* DRAW ATTENTION
 
 
 ^ take the things i liked about other projects & go in diff direction
 
-^ responsive to people around me but in a way that increases my discomfort unless i conform to social norms
+^ responsive to people around me but increases my discomfort unless i conform to social norms
 
-^ obnoxious, flashy, attention getting when i was keeping to myself
+^ obnoxious, flashy, attention getting when alone
 
-^  only calm down & turn off when i forced myself to be sociable & surround myself with other people.
-
-^ no app
-
-^ sense how many people are around me & respond accordingly to params i've set.
+^  only calm down when sociable & surround with other people.
 
 ^ less about purposefully using lights to attract people
 
 ^ more about me wanting to get rid of the lights as fast as possible
 
-^ so i can stop drawing attention to myself.
-
 ^ this progression of my work is a convincing reason for me to build this necklace
 
 ^ misled you
-
-^ really a defining moment when I decided
 
 ---
 
@@ -252,11 +240,7 @@ she/her
 
 ^ felt really insecure with my skills
 
-^ CS degrees
-
 ^ folks started a ML study group
-
-^ Everyone else learning fast
 
 ^ falling behind from the first study group
 
@@ -271,6 +255,7 @@ she/her
 ![autoplay loop](photos/ml4a.mp4)
 
 ^ the ML 4 artist courses by gene kogan
+
 ^ open my eyes to what artists and non-traditional technologists doing
 
 ^ they gave me ideas on how i could integrate ml into a this new wearable project
@@ -323,7 +308,7 @@ she/her
 
 ^ lots of minor code changes to do to run browser based models in node instead.
 
-^ warning that i'm not going to show a bunch of code during this talk since this code is v specific to my project.
+^ can see in the console statements detecting person
 
 ---
 
@@ -423,7 +408,7 @@ If it isn't broke, why fix it?
 
 ---
 
-<!-- # [fit] Communication between the 
+<!-- # [fit] Communication between the
 # [fit] Raspberry Pi and the arduino -->
 
 <!-- --- -->
@@ -504,8 +489,8 @@ If it isn't broke, why fix it?
 
 ---
 
-# [fit] it was still running at startup 
-# [fit] & HAD A MEMORY LEAK 
+# [fit] it was still running at startup
+# [fit] & HAD A MEMORY LEAK
 #<br>
 # 🤦‍♀
 
@@ -645,7 +630,7 @@ If it isn't broke, why fix it?
 ^ so it would be calm with no one around and chaotic with many people around
 
 ---
-<!-- 
+<!--
 ![fit](photos/blubbering.png)
 
 --- -->
@@ -653,7 +638,9 @@ If it isn't broke, why fix it?
 # Thanks!
 
 ^ it was hard and i got demotivated
+
 ^ 8mos vs. 3mos
+
 ^ always stuff i could have done differently
 
 - Tensorflowjs + tiny-yolo + Raspberry Pi code:
