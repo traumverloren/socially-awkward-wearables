@@ -134,8 +134,6 @@ she/her
 
 <br>
 
-^ explore reactions when people realize the lights can be change w/ a web app.
-
 ^ Gave talks about this project last year, check out link
 
 ^  app to control the lights
@@ -153,9 +151,9 @@ she/her
 ## [fit] a web app for your outfit is
 ## [fit] both good and bad
 
-^ Stuck having to have phone, to have an internet connection
-
 ^ purposefully wanted to explore creating a temporary experience that connected viewer directly to the artwork for a brief moment.
+
+^ explore reactions when people realize the lights can be change w/ a web app.
 
 ^ Doing it more to please & other people which is OK but less of the direction i was interested in.
 
@@ -171,9 +169,7 @@ she/her
 
 ^ make a necklace that would show accompanying images as i was speaking to someone
 
-^ so they would find me interesting
-
-^ & engage in conversation with me.
+^ find me interesting
 
 ^ I have a raspberry pi with a touchscreen and a microphone.
 
@@ -432,9 +428,9 @@ If it isn't broke, why fix it?
 
 ---
 
-![inline fit](photos/teensy-serial.png)
+<!-- ![inline fit](photos/teensy-serial.png)
 
----
+--- -->
 
 ![](photos/serial-instructions.gif)
 
@@ -540,7 +536,7 @@ If it isn't broke, why fix it?
 
 ^ arduino is single threaded and very limited resources
 
-^ thought i was cleverful for using json
+^ thought i was clever for using json
 
 ---
 
@@ -548,8 +544,11 @@ If it isn't broke, why fix it?
 
 
 ^ code from the NodeJS/rpi App
+
 ^ what info does the arduino really need
+
 ^ what can it be condensed down to
+
 ^ 60 & 62
 
 ---
@@ -600,7 +599,7 @@ If it isn't broke, why fix it?
 
 ![left fit](photos/gurtel.jpg)
 
-^ first idea was to stuffy everything in a fanny pack but that was not working.
+^ first idea was to stuff everything in a fanny pack but that was not working.
 
 ^ too much stuff, too big
 
