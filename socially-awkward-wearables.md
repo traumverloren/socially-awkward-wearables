@@ -488,7 +488,7 @@ If it isn't broke, why fix it?
 # [fit] it was still running at startup
 # [fit] & HAD A MEMORY LEAK
 #<br>
-# 🤦‍♀
+# 🤦‍
 
 ![right fit autoplay loop](photos/IMG_6459.mp4)
 
