@@ -23,7 +23,7 @@ footer: @stephaniecodes
 
 ^ next 30 minutes
 
-^ using a lot of tech to responding people around me.
+^ using a lot of tech to respond people around me.
 
 ---
 
@@ -153,6 +153,8 @@ she/her
 
 ^ purposefully wanted to explore creating a temporary experience that connected viewer directly to the artwork for a brief moment.
 
+- question who is the artist in that moment?
+
 ^ explore reactions when people realize the lights can be change w/ a web app.
 
 ^ Doing it more to please & other people which is OK but less of the direction i was interested in.
@@ -167,13 +169,13 @@ she/her
 
 ^ my last project
 
-^ make a necklace that would show accompanying images as i was speaking to someone
+^ make a necklace that would show related images as i was speaking to someone
 
-^ find me interesting
+^ so ppl find me interesting
 
-^ I have a raspberry pi with a touchscreen and a microphone.
+^ Raspberry pi with a touchscreen and a microphone.
 
-^ NodeJS server send audio to the google speech recognition api and then sending those keywords to the google search api from and finally is showing an image that correlates to what i'm saying.
+^ NodeJS server send audio
 
 ^ Responsive to the environment
 
@@ -187,7 +189,7 @@ she/her
 # [fit] with *machine learning*
 # [fit] and hadn't realize it.
 
-🤷‍
+ 🤷‍
 
 ### (I just thought I was using an API)
 
@@ -308,7 +310,7 @@ she/her
 
 ---
 
-# Autonomous Necklace Recipe
+# Autonomous Necklace Progress
 
 1. ~~Get image recognition ML model running on Node.js~~
 2. **Run TensorFlow.js on Raspberry Pi!**
@@ -338,7 +340,7 @@ It is a bit hacky, but runs reliable & that's beautiful!
 
 If it isn't broke, why fix it?
 
-^ Latest tf.js release is 1.2.8
+^ Latest tf.js release is 1.3.1
 
 ^ Also prepping rc 2.0
 
@@ -352,7 +354,7 @@ If it isn't broke, why fix it?
 
 --- -->
 
-# Autonomous Necklace Recipe
+# Autonomous Necklace Progress
 
 1. ~~Get image recognition ML model running on Node.js~~
 2. ~~Run TensorFlow.js on Raspberry Pi!~~
@@ -381,6 +383,12 @@ If it isn't broke, why fix it?
 
 [https://github.com/jasoncoon/BlinkyTileFastLED](https://github.com/jasoncoon/BlinkyTileFastLED)
 
+^ try follow this example code
+
+---
+
+![inline 80%](photos/blinkycode2.png)
+
 ---
 
 ![fit autoplay loop](photos/blinkytiles-arduino-test.mov)
@@ -393,7 +401,7 @@ If it isn't broke, why fix it?
 
 ---
 
-# Autonomous Necklace Recipe
+# Autonomous Necklace Progress
 
 1. ~~Get image recognition ML model running on Node.js~~
 2. ~~Run TensorFlow.js on Raspberry Pi!~~
@@ -494,7 +502,7 @@ If it isn't broke, why fix it?
 
 ---
 
-# Autonomous Necklace Recipe
+# Autonomous Necklace Progress
 
 1. ~~Get image recognition ML model running on Node.js~~
 2. ~~Run TensorFlow.js on Raspberry Pi!~~
@@ -553,7 +561,7 @@ If it isn't broke, why fix it?
 
 ---
 
-# Autonomous Necklace Recipe
+# Autonomous Necklace Progress
 
 1. ~~Get image recognition ML model running on Node.js~~
 2. ~~Run TensorFlow.js on Raspberry Pi!~~
@@ -634,13 +642,17 @@ If it isn't broke, why fix it?
 
 --- -->
 
-# Thanks!
+![fit](photos/arduino-commits.png)
 
 ^ it was hard and i got demotivated
 
 ^ 8mos vs. 3mos
 
 ^ always stuff i could have done differently
+
+---
+
+# Thanks!
 
 - Tensorflowjs + tiny-yolo + Raspberry Pi code:
 [tiny.cc/yolo-pi](http://tiny.cc/yolo-pi)
@@ -650,5 +662,4 @@ If it isn't broke, why fix it?
 - Arduino necklace code:
 [tiny.cc/ml-necklace](http://tiny.cc/ml-necklace)
 
-
-^ i love to talk about non-tech things, so I thought i'd include some convos starters if you see me around please chat!
+^ I have queerjs and my own little cartoon coding dog character stickers
