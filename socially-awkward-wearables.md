@@ -72,6 +72,8 @@ she/her
 
 ^ live in Berlin
 
+^ my pronouns are she/her
+
 ---
 
 ### [fit] I'm *fascinated* with making myself
