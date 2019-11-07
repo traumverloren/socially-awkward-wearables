@@ -260,6 +260,10 @@ she/her
 
 ---
 
+![autoplay loop fit](photos/wekinator.mp4)
+
+---
+
 ![autoplay loop](photos/coding-train.mp4)
 
 ^ i wanted to do all the machine learning in JS.
@@ -550,12 +554,11 @@ If it isn't broke, why fix it?
 
 ![fit](photos/switched-to-bytes.png)
 
-
-^ code from the NodeJS/rpi App
-
 ^ what info does the arduino really need
 
 ^ what can it be condensed down to
+
+^ updated code from the NodeJS/rpi App
 
 ^ 60 & 62
 
