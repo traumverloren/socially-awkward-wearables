@@ -21,7 +21,7 @@ footer: @stephaniecodes
 
 ![left fill autoplay loop](photos/ml-necklace.mov)
 
-^ next 30 minutes
+^ next 40 minutes
 
 ^ using a lot of tech to respond people around me.
 
@@ -76,8 +76,8 @@ she/her
 
 ---
 
-### [fit] I'm *fascinated* with making myself
-### [fit] uncomfortable in public
+### [fit] I'm *fascinated* with making beautiful things
+### [fit] that make me *uncomfortable* in public
 
 ^ few yrs ago
 
@@ -130,6 +130,61 @@ she/her
 
 ---
 
+### I found inspiration at the Stedelijk.
+
+#<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+![original](photos/stedelijk.jpg)
+
+
+^Stedelijk museum in Amsterdam
+
+^I went to see an exhibition of art by Jean Tinguely.
+
+---
+
+### Jean Tinguely
+
+#<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+![original](photos/tinguely.jpg)
+
+^ Jean Tinguely
+
+^ Swiss, 60s/70s
+
+^ Art NOT about standing in a sterile white space, distantly gazing silent painting
+
+^ Art meant to be playful
+
+^ Created installations meant to be triggered by a viewer
+
+^ The viewers's experience was integrated into the overall effect of the work itself
+
+^ It intentionally blurred the line between artist and viewer
+
+^ The viewer is invited to choose a drawing tool (marker, pen, or pencil) and place it in a holder.
+
+^ When put into motion, it moves it along a piece of paper.
+
+^ The result would be a work of art in itself.
+
+^ No longer just watching a process, the viewer, by choosing the drawing tool, plays a role in the creation of an entirely new work of art.
+
+---
+
+> I wanted something ephemeral that would pass like a falling star...<br/><br/>The work had to just transpire, make people dream and talk, and that would be all.
+> - Jean Tinguely
+
+^ At the exhibit, this quote by Tinguely stood out to me.
+
+^ Really liked idea of art as a temporary experience that connects an artist and viewer
+
+^ It's spontaneous and,
+
+^ Only meant to bring joy and inspire for short time
+
+---
+
 ![fill autoplay loop](photos/intro-clip.mov)
 
 ### [tiny.cc/haute-codeture](http://tiny.cc/haute-codeture)
@@ -155,9 +210,9 @@ she/her
 
 ^ purposefully wanted to explore creating a temporary experience that connected viewer directly to the artwork for a brief moment.
 
-- question who is the artist in that moment?
+^ question who is the artist in that moment?
 
-^ explore reactions when people realize the lights can be change w/ a web app.
+^Really interested in exploring the interactions that might occur when people realize it's interactive via app.
 
 ^ Doing it more to please & other people which is OK but less of the direction i was interested in.
 
@@ -165,23 +220,20 @@ she/her
 
 ---
 
+[.build-lists: true]
+
 ![fit left autoplay loop](photos/IMG_6459.mp4)
 
-### [tiny.cc/speech-to-image](http://tiny.cc/speech-to-image)
+## [tiny.cc/speech-to-image](http://tiny.cc/speech-to-image)
 
-^ my last project
+- Raspberry Pi 3B+
+- Microphone
+- Touchscreen
+- NodeJS
+- Google cloud speech recognition API
+- Custom google search API
 
-^ make a necklace that would show related images as i was speaking to someone
-
-^ so ppl find me interesting
-
-^ Raspberry pi with a touchscreen and a microphone.
-
-^ NodeJS server send audio
-
-^ Responsive to the environment
-
-^ still needed wifi
+^ NodeJS server send audio to the google speech recognition api and then sending those keywords to the google search api from and finally is showing an image that correlates to what i'm saying.
 
 ---
 
@@ -209,10 +261,6 @@ she/her
 
 ![left autoplay loop fill](photos/ml-necklace.mov)
 
-# [fit] A wearable that forces me
-# [fit] to be *around people* in order to
-# [fit] *not* DRAW ATTENTION
-
 
 ^ take the things i liked about other projects & go in diff direction
 
@@ -226,13 +274,25 @@ she/her
 
 ^ more about me wanting to get rid of the lights as fast as possible
 
+---
+
+
+![left autoplay loop fill](photos/ml-necklace.mov)
+
+# [fit] A wearable that forces me
+# [fit] to be *around people* in order to
+# [fit] *not* DRAW ATTENTION
+
+
+^ A wearable that forces me to be around people in order to not DRAW ATTENTION
+
 ^ this progression of my work is a convincing reason for me to build this necklace
 
 ^ misled you
 
 ---
 
-### shiny New Job at mega tech company
+### New Job at mega tech company
 
 ^ moment of self-doubt & inadequacy
 
@@ -258,7 +318,7 @@ she/her
 
 ^ open my eyes to what artists and non-traditional technologists doing
 
-^ they gave me ideas on how i could integrate ml into a this new wearable project
+^ they gave me ideas on how i could integrate ml into a new wearable project
 
 ---
 
@@ -268,12 +328,12 @@ she/her
 
 ![autoplay loop](photos/coding-train.mp4)
 
-^ i wanted to do all the machine learning in JS.
+^ i wanted to do all the machine learning in JS -> Tensorflow.js
 
 ^ Library for training & running machine learning models in the browser
 (or Node.js)
 
-^ browser
+^ browser not possible on rpi
 
 ^ There were 2 things i wasn't sure from beginning if they were even possible:
 
@@ -583,6 +643,13 @@ If it isn't broke, why fix it?
 
 ---
 
+
+![fit](photos/blinkytiles-loop.png)
+
+^ get a message, get peopleCount, update program
+
+---
+
 ![fit](photos/arduino-code.png)
 
 ^ get a message, get peopleCount, update program
@@ -610,7 +677,7 @@ If it isn't broke, why fix it?
 
 ![right fit](photos/necklace-schema.jpg)
 
-![left fit](photos/gurtel.jpg)
+![left fit](photos/fannypack.jpg)
 
 ^ first idea was to stuff everything in a fanny pack but that was not working.
 
