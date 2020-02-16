@@ -220,7 +220,7 @@ she/her
 
 ---
 
-[.build-lists: true]
+<!-- [.build-lists: true] -->
 
 ![fit left autoplay loop](photos/IMG_6459.mp4)
 
@@ -292,7 +292,7 @@ she/her
 
 ---
 
-### New Job at mega tech company
+### New Job at big tech company
 
 ^ moment of self-doubt & inadequacy
 
@@ -323,6 +323,25 @@ she/her
 ---
 
 ![autoplay loop fit](photos/wekinator.mp4)
+
+---
+
+###### [fit] Wekinator
+![inline](photos/wekinator.jpeg)
+
+###### [fit] Open Frameworks
+![inline](photos/open-frameworks.png)
+
+---
+
+![inline fit](photos/wek.jpg)
+
+[https://code.google.com/archive/p/wekinator/](https://code.google.com/archive/p/wekinator/)
+
+
+^ Wekinator builds these models using supervised machine learning algorithms. Instead of creating the model function by writing code, you create models by providing training examples of inputs and the outputs that should correspond to them. A learning algorithm builds a model from the training examples.
+
+^ But i wanted to code it
 
 ---
 
@@ -406,7 +425,7 @@ It is a bit hacky, but runs reliable & that's beautiful!
 
 If it isn't broke, why fix it?
 
-^ Latest tf.js release is 1.3.1
+^ Latest tf.js release is 1.5.2
 
 ^ Also prepping rc 2.0
 
@@ -437,7 +456,8 @@ If it isn't broke, why fix it?
 
 ---
 
-![left fill](photos/blinkytiles-top.jpg)
+<!-- ![left fill](photos/blinkytiles-top.jpg) -->
+![left fit](photos/blinkytile.jpg) 
 ![right autoplay loop fit](photos/blinkytiles-wearable.MOV)
 
 ---
