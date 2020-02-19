@@ -385,8 +385,6 @@ she/her
 
 ---
 
-# Autonomous Necklace Progress
-
 1. ~~Get image recognition ML model running on Node.js~~
 2. **Run TensorFlow.js on Raspberry Pi!**
 <br/>
@@ -428,8 +426,6 @@ If it isn't broke, why fix it?
 <!-- ![fit](photos/camera-working-2.png)
 
 --- -->
-
-# Autonomous Necklace Progress
 
 1. ~~Get image recognition ML model running on Node.js~~
 2. ~~Run TensorFlow.js on Raspberry Pi!~~
@@ -476,8 +472,6 @@ If it isn't broke, why fix it?
 ![](photos/necklace-3.jpg)
 
 ---
-
-# Autonomous Necklace Progress
 
 1. ~~Get image recognition ML model running on Node.js~~
 2. ~~Run TensorFlow.js on Raspberry Pi!~~
@@ -578,15 +572,6 @@ If it isn't broke, why fix it?
 
 ---
 
-# Autonomous Necklace Progress
-
-1. ~~Get image recognition ML model running on Node.js~~
-2. ~~Run TensorFlow.js on Raspberry Pi!~~
-3. ~~Create a LED necklace~~
-4. **Send image data from the Raspberry Pi to the lights**
-
----
-
 # [fit] What format do I use to send data?
 
 ![](photos/serial-coding.png)
@@ -635,8 +620,6 @@ If it isn't broke, why fix it?
 ^ 60 & 62
 
 ---
-
-# Autonomous Necklace Progress
 
 1. ~~Get image recognition ML model running on Node.js~~
 2. ~~Run TensorFlow.js on Raspberry Pi!~~
@@ -695,7 +678,7 @@ If it isn't broke, why fix it?
 
 ---
 
-### [fit] Sometimes, I've had enough
+### [fit] Sometimes, I've had enough attention
 
 ##<br>
 
