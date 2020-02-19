@@ -62,7 +62,9 @@ footer: @stephaniecodes
 
 ![fit left](photos/IMG_2739.jpeg)
 
-web developer, [@MicrosoftToDo](https://www.twitter.com/microsofttodo)
+Software Engineer II
+
+[@MicrosoftToDo](https://www.twitter.com/microsofttodo)
 
 she/her
 
@@ -191,8 +193,6 @@ she/her
 
 <br>
 
-^ Gave talks about this project last year, check out link
-
 ^  app to control the lights
 
 ^ Anyone on the web could change colors and patterns
@@ -212,11 +212,7 @@ she/her
 
 ^ question who is the artist in that moment?
 
-^Really interested in exploring the interactions that might occur when people realize it's interactive via app.
-
-^ Doing it more to please & other people which is OK but less of the direction i was interested in.
-
-^ More focused on me and what i was experiencing.
+^ Explored the interactions that might occur when people realize it's interactive via app.
 
 ---
 
@@ -232,6 +228,12 @@ she/her
 - NodeJS
 - Google cloud speech recognition API
 - Custom google search API
+
+^ More interesting:  things responsive to what i was experiencing
+
+^ rather than input with others
+
+^ built this to see if people would pay attn to me more when i spoke.
 
 ^ NodeJS server send audio to the google speech recognition api and then sending those keywords to the google search api from and finally is showing an image that correlates to what i'm saying.
 
@@ -262,29 +264,17 @@ she/her
 ![left autoplay loop fill](photos/ml-necklace.mov)
 
 
-^ take the things i liked about other projects & go in diff direction
+^ take the things about other projects & go in diff direction
 
 ^ responsive to people around me but increases my discomfort unless i conform to social norms
 
 ^ obnoxious, flashy, attention getting when alone
 
-^  only calm down when sociable & surround with other people.
+^  only calm when sociable & surround with other people.
 
 ^ less about purposefully using lights to attract people
 
 ^ more about me wanting to get rid of the lights as fast as possible
-
----
-
-
-![left autoplay loop fill](photos/ml-necklace.mov)
-
-# [fit] A wearable that forces me
-# [fit] to be *around people* in order to
-# [fit] *not* DRAW ATTENTION
-
-
-^ A wearable that forces me to be around people in order to not DRAW ATTENTION
 
 ^ this progression of my work is a convincing reason for me to build this necklace
 
