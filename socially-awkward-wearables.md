@@ -41,11 +41,11 @@ footer: @stephaniecodes
 | - Battery
 
 
-^ Camera is taking a picture
+^ Camera on choker
 
 ^ Camera is attached to rpi
 
-^ RPI is running NodeJS, tensorflowjs, image recognition model
+^ RPI is running javascript & an image recognition model
 
 ^  ML model on the pi determines how many people it sees
 
@@ -229,13 +229,17 @@ she/her
 - Google cloud speech recognition API
 - Custom google search API
 
-^ More interesting:  things responsive to what i was experiencing
+^ More interested: responsive to what i was experiencing
 
-^ rather than input with others
+^ rather than input from others
 
 ^ built this to see if people would pay attn to me more when i spoke.
 
-^ NodeJS server send audio to the google speech recognition api and then sending those keywords to the google search api from and finally is showing an image that correlates to what i'm saying.
+^ NodeJS server sends audio to google speech recognition api
+
+^ gets  keywords
+
+^ sends google search api from and finally is showing an image that correlates to what i'm saying.
 
 ---
 
@@ -312,15 +316,21 @@ she/her
 
 ---
 
-![autoplay loop fit](photos/wekinator.mp4)
+![autoplay loop fit left](photos/wekinator.mp4)
 
----
 
-###### [fit] Wekinator
-![inline](photos/wekinator.jpeg)
+<br/>
+![inline 80%%](photos/wekinator.jpeg)
+Wekinator
 
-###### [fit] Open Frameworks
-![inline](photos/open-frameworks.png)
+<br/>
+![inline 80%](photos/open-frameworks.png)
+Open Frameworks
+
+^ ML4A introduced me to GUI tools
+
+^ I could quickly play with integrating ML into one of my wearables
+
 
 ---
 
@@ -527,11 +537,11 @@ If it isn't broke, why fix it?
 
 ![left fill autoplay loop](photos/teensy-power-issues.mov)
 
+^ Kinda learns about electronics as I build stuff and have problems?
+
 ^ Power issues
 
-^ Outside my abilities at the time
-
-^ So switched boards instead
+^ So switched boards
 
 ---
 
@@ -545,6 +555,8 @@ If it isn't broke, why fix it?
 ^ Blinkytiles need 5V
 
 ^ I had one lying around
+
+^ Learned what my issue was after the fact
 
 ---
 
@@ -658,13 +670,13 @@ If it isn't broke, why fix it?
 
 ![fit](photos/test.png)
 
-^ more issues
+^ poor fit
 
-^ bad connections shorting
+^ didn't consider how to "hide" rpi, battery pack on body.
 
-^ bad fit
+^ poorly soldered, bad connections shorting
 
-^ Don't wait to the end to actually wear it
+^ TLDR, Don't wait to the end to actually wear on you, not just your mannequin
 
 ---
 
@@ -709,11 +721,24 @@ If it isn't broke, why fix it?
 
 ![fit](photos/arduino-commits.png)
 
+^ i know can sound straightforward what i did when i condense it down in a talk
+
 ^ it was hard and i got demotivated
 
 ^ 8mos vs. 3mos
 
 ^ always stuff i could have done differently
+
+---
+
+> I wanted something ephemeral that would pass like a falling star...<br/><br/>The work had to just transpire, make people dream and talk, and that would be all.
+> - Jean Tinguely
+
+^ end with this quote. This is what i've tried to do thru out all my wearables
+
+^ fuels me to explore ways to make myself uncomfortable in order to find new ways to interact with others
+
+^ hope i've inspired you for a bit, or at least given you something interesting to look at for 40mins
 
 ---
 
