@@ -91,10 +91,6 @@ she/her
 
 ^ love them but hard to deal w/ the attention they draw
 
-^ try to channel that anxiety into a fascination & excitement
-
-^ use them to confront my discomfort of the attention they attract.
-
 ---
 
 ![fill original](photos/dress-1.jpg)
@@ -125,6 +121,10 @@ she/her
 ## [fit] but people liked it
 
 ^ I felt awkward, but got lots of compliments.
+
+^ try to channel that anxiety into a fascination & excitement
+
+^ use them to confront my discomfort of the attention they attract.
 
 ^ Self-esteem boost.
 
@@ -254,8 +254,6 @@ she/her
  🤷‍
 
 ### (I just thought I was using an API)
-
-^ going to talk about ML & how i used it in my current project, point out that
 
 ^ Ironically I also didn't realize I had worked with ML in this project until I really looked back and thought about this project again.
 
@@ -452,11 +450,17 @@ If it isn't broke, why fix it?
 ![left](photos/blinky-kit.jpg)
 ![right fill](photos/blinkytiles-stock.jpg)
 
+^ fully contained kit with own custom microcontroller with preprog light programs
+
 ---
 
 <!-- ![left fill](photos/blinkytiles-top.jpg) -->
 ![left fit](photos/blinkytile.jpg) 
 ![right autoplay loop fit](photos/blinkytiles-wearable.MOV)
+
+^ what most people build
+
+^ already experimented with creating a wearable
 
 ---
 
@@ -472,6 +476,8 @@ If it isn't broke, why fix it?
 ---
 
 ![inline 80%](photos/blinkycode2.png)
+
+^ control as dmx / stage lighting
 
 ---
 
