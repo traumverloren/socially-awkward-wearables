@@ -122,11 +122,11 @@ she/her
 
 ^ I felt awkward, but got lots of compliments.
 
+^ Self-esteem boost.
+
 ^ try to channel that anxiety into a fascination & excitement
 
 ^ use them to confront my discomfort of the attention they attract.
-
-^ Self-esteem boost.
 
 ^ wished it could be more alive & interactive
 
