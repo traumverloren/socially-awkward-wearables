@@ -193,6 +193,10 @@ she/her
 
 <br>
 
+^ inspired
+
+^ purposefully wanted to explore creating a temporary experience that connected strangers to me through my outfit.
+
 ^  app to control the lights
 
 ^ Anyone on the web could change colors and patterns
@@ -207,8 +211,6 @@ she/her
 
 ## [fit] a web app for your outfit is
 ## [fit] both good and bad
-
-^ purposefully wanted to explore creating a temporary experience that connected viewer directly to the artwork for a brief moment.
 
 ^ question who is the artist in that moment?
 
@@ -268,7 +270,7 @@ she/her
 ![left autoplay loop fill](photos/ml-necklace.mov)
 
 
-^ take the things about other projects & go in diff direction
+^ take this concept of wearable responsive to me but built to be viewed by those around me
 
 ^ responsive to people around me but increases my discomfort unless i conform to social norms
 
@@ -751,5 +753,3 @@ If it isn't broke, why fix it?
 
 - Arduino necklace code:
 [tiny.cc/ml-necklace](http://tiny.cc/ml-necklace)
-
-^ I have queerjs and my own little cartoon coding dog character stickers
